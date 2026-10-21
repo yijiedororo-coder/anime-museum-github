@@ -7,14 +7,17 @@ const original=catalog.items;
 const sameIds=(actual,expected,message)=>{assert.equal(actual.length,expected.length,message);for(let i=0;i<actual.length;i++)assert.equal(actual[i],expected[i],message);};
 assert.equal(original.length,1427,'原作品库应保留1427部');
 sameIds(registry.sections.filter(section=>section.beforeCatalog).map(section=>section.id),['aobuta-autumn-2026','gakuen-idolmaster'],'既有专题保持在目录之前；新专题不要写 beforeCatalog');
-const reserved=['idolmaster-shinycolors','idolmaster-millionlive','idolmaster-cinderella','idolmaster-sidem','idolmaster-765','zenless-zone-zero','hololive'];
-for(const id of reserved){
+const slots=['idolmaster-shinycolors','idolmaster-millionlive','idolmaster-cinderella','idolmaster-sidem','idolmaster-765','zenless-zone-zero','hololive','idolmaster'];
+let hidden=0;
+for(const id of slots){
  const section=registry.sections.find(item=>item.id===id);
- assert(section,'缺少空位 '+id);
+ assert(section,'缺少专题登记 '+id);
  const bag=context.window[section.global];
- assert.equal(bag.placeholder,true,id+' 必须标记为空位');
- assert.equal(bag.items.length,0,id+' 不能带作品条目');
- assert.equal(visibleItems(bag).length,0);
+ if(bag.placeholder===true){
+  assert.equal((bag.items||[]).length,0,id+' 标记为空位时不能带作品条目');
+  assert.equal(visibleItems(bag).length,0);
+  hidden++;
+ }else assert(bag.items?.some(item=>item.id===id),id+' 已填写时应包含同名作品');
 }
 for(const section of registry.sections){
  const bag=context.window[section.global];
@@ -25,7 +28,12 @@ const all=orderedWorks(context,registry);
 sameIds(all.slice(0,2).map(work=>work.id),['aobuta-autumn-2026','gakuen-idolmaster'],'既有专题顺序被改变');
 sameIds(all.slice(2,2+original.length).map(work=>work.id),original.map(work=>work.id),'原目录顺序被改变');
 assert.equal(new Set(all.map(work=>work.id)).size,all.length,'作品编号不可重复');
-for(const id of reserved)assert(!all.some(work=>work.id===id),id+' 不应出现在页面');
+for(const id of slots){
+ const section=registry.sections.find(item=>item.id===id);
+ const bag=context.window[section.global];
+ if(bag.placeholder===true)assert(!all.some(work=>work.id===id),id+' 空位不应出现在页面');
+ else assert(all.some(work=>work.id===id),id+' 已填写时应出现在页面');
+}
 function local(file){assert(!isAbsolute(file));const full=resolve(root,file),rel=relative(root,full);assert(rel&&!rel.startsWith('..')&&!isAbsolute(rel),'本地资源路径必须位于项目内');assert(existsSync(full),'缺少资源 '+file);}
 let products=0,events=0;
 for(const work of all){
@@ -45,4 +53,4 @@ assert(!html.includes('gakumas-data.js')&&!html.includes('aobuta-data.js'),'首�
 assert(js.includes('MUSEUM_IP_REGISTRY'),'页面应从登记表收集专题');
 const ids=new Set(Array.from((html+'\n'+js).matchAll(/\bid="([^"]+)"/g),match=>match[1]));
 for(const match of js.matchAll(/\$\('([^']+)'\)/g))assert(ids.has(match[1]),'缺少交互节点 '+match[1]);
-console.log(JSON.stringify({status:'check passed',works:all.length,products,events,sections:registry.sections.length,hidden:reserved.length,localAssets:true}));
+console.log(JSON.stringify({status:'check passed',works:all.length,products,events,sections:registry.sections.length,hidden,localAssets:true}));
