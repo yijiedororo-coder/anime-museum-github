@@ -1,23 +1,21 @@
 import { mkdir, readFile, writeFile, copyFile, rm } from 'node:fs/promises';
 import { dirname, resolve, relative, isAbsolute } from 'node:path';
-import { fileURLToPath } from 'node:url';
-import vm from 'node:vm';
-
-const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+import { root, loadMuseum, orderedWorks, sectionFiles } from './load-museum.mjs';
 const output = resolve(root, 'dist');
 // Only replace the generated dist folder of this portable checkout.
 if (dirname(output) !== root || relative(root, output) !== 'dist') throw new Error('Invalid output folder');
 await rm(output, { recursive: true, force: true });
 await mkdir(resolve(output, 'data'), { recursive: true });
 await mkdir(resolve(output, 'reports'), { recursive: true });
-const source = await readFile(resolve(root, 'data/catalog-data.js'), 'utf8');
-const context = { window: {} };
-vm.runInNewContext(source, context, { timeout: 3000 });
-vm.runInNewContext(await readFile(resolve(root, 'data/gakumas-data.js'), 'utf8'), context, { timeout: 3000 });
-vm.runInNewContext(await readFile(resolve(root, 'data/aobuta-data.js'), 'utf8'), context, { timeout: 3000 });
-const items = [...context.window.ANIME_CATALOG.items, ...context.window.MUSEUM_ADDITIONS.items,...context.window.MUSEUM_EVENTS.items];
-const posters = new Set(items.flatMap(item => [item, ...(item.alternateRecords || [])]).map(item => item.localPoster).filter(Boolean));
-for (const item of items) for (const goods of item.merch || []) if (!/^https?:/.test(goods.image)) posters.add(goods.image);
+const { context, registry } = loadMuseum();
+const items = orderedWorks(context, registry);
+const posters = new Set();
+for (const item of items) {
+  for (const record of [item, ...(item.alternateRecords || [])]) if (record.localPoster) posters.add(record.localPoster);
+  for (const series of item.seriesWorks || []) if (series.localPoster && !/^https?:/.test(series.localPoster)) posters.add(series.localPoster);
+  for (const profile of item.characterProfiles || []) if (profile.localPoster && !/^https?:/.test(profile.localPoster)) posters.add(profile.localPoster);
+  for (const goods of item.merch || []) if (goods.image && !/^https?:/.test(goods.image)) posters.add(goods.image);
+}
 for (const asset of posters) {
   const path = resolve(root, asset);
   const location = relative(resolve(root, 'assets'), path);
@@ -26,7 +24,11 @@ for (const asset of posters) {
   await mkdir(dirname(target), { recursive: true });
   await copyFile(path, target);
 }
-for (const file of ['museum.js', 'museum.css', 'events.js', 'series.js', 'data/aobuta-products.csv', 'data/aobuta-data.js', 'data/catalog-data.js', 'data/gakumas-data.js', 'data/gakumas-products.csv', 'data/gakumas-collection-report.json', 'data/gakumas-oct20-research.json', 'reports/gakumas-2026-10-20.md']) await copyFile(resolve(root, file), resolve(output, file));
+for (const file of ['museum.js', 'museum.css', 'events.js', 'series.js', 'data/catalog-data.js', 'data/ip-registry.js', 'data/ip-loader.js', ...sectionFiles(registry)]) {
+  const target = resolve(output, file);
+  await mkdir(dirname(target), { recursive: true });
+  await copyFile(resolve(root, file), target);
+}
 // Build a directly readable report so visitors do not need a Markdown viewer.
 const report = await readFile(resolve(root, 'reports/gakumas-2026-10-20.md'), 'utf8');
 const escape = value => value.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
