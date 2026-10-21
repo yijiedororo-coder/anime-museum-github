@@ -1,0 +1,28 @@
+{
+  "dateJapan": "2026-10-21",
+  "source": "动画博物馆完整项目",
+  "originalWorks": 1427,
+  "totalWorks": 1429,
+  "gakumasProducts": 5516,
+  "gakumasEvents": 27,
+  "aobutaProducts": 409,
+  "aobutaEvents": 43,
+  "excluded": [
+    "Git内部目录",
+    "Sites身份和环境配置",
+    "账号凭证",
+    "Python缓存",
+    "node_modules"
+  ],
+  "status": "build and browser checks passed",
+  "assetFiles": 1476,
+  "assetBytes": 98877071,
+  "secretsScan": "no matching credentials found",
+  "browserChecks": [
+    "活动档案27条",
+    "站内完整报告相对路径可用"
+  ],
+  "cloudflareRemoteDeployment": "not performed",
+  "githubUpload": "not performed",
+  "excludedThirdPartyCachedPagesWithKeyFields": 3
+}

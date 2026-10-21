@@ -1,0 +1,18 @@
+{
+  "name": "anime-museum",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "动画博物馆：作品、活动、角色与周边资料库",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node tools/verify.mjs",
+    "build": "node tools/verify.mjs && node tools/build.mjs",
+    "preview": "node tools/preview.mjs",
+    "start": "node tools/preview.mjs",
+    "deploy:pages": "npm run build && npx wrangler pages deploy dist",
+    "deploy:workers": "npm run build && npx wrangler deploy --config wrangler.workers.jsonc"
+  }
+}
