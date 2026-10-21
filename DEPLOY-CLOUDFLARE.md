@@ -10,10 +10,12 @@
 
 站点所有者已说明Workers连接了本仓库，后续维护沿用同一个Worker。默认配置是`wrangler.jsonc`，名称必须与现有Worker一致：`anime-museum-github`。不需要重新创建Pages项目。
 
+2026年10月21日构建日志确认，控制台部署命令仍显式读取`wrangler.workers.jsonc`。仓库保留该兼容配置，与`wrangler.jsonc`保持一致；不需要修改现有控制台设置。`npm run deploy:check`同时校验两个入口，避免文件改名后自动部署失败。
+
 1. 在这个仓库的工作副本修改源码或数据。
 2. 依赖缺失/锁文件改变时运行`npm ci`，之后运行`npm run build`。部署配置改变时再运行`npm run deploy:check`（不上传、不发布）。
 3. 本地检查通过后提交并推送正式分支`main`。推送会触发公网更新。
-4. Cloudflare → Workers & Pages → `anime-museum-github` → Builds，应设置构建命令`npm run build`、部署命令`npx wrangler deploy`、根目录为仓库根目录。
+4. Cloudflare → Workers & Pages → `anime-museum-github` → Builds，现有构建命令为`npm run build`、部署命令为`npx wrangler deploy --config wrangler.workers.jsonc --name anime-museum-github`、根目录为仓库根目录。保持这些设置即可。
 5. 等待该提交的构建和部署成功，然后打开网站检查。
 
 **成功标志**：Cloudflare显示对应提交部署成功，网站`/build-info.json`里的`commit`与刚推送的完整Git SHA一致。仅仅首页能打开，不能证明刚才的修改已经部署。

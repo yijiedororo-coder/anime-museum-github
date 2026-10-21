@@ -1,0 +1,9 @@
+{
+  // Cloudflare Builds still uses this filename explicitly. Keep it aligned with wrangler.jsonc.
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "anime-museum-github",
+  "compatibility_date": "2026-10-21",
+  "assets": {
+    "directory": "./dist"
+  }
+}

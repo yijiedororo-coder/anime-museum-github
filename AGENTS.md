@@ -5,6 +5,7 @@
 - 正式分支为 `main`。用户已说明现有Cloudflare站点连接了本仓库；推送正式分支会触发上线，提交前先完成相应检查。
 - 现有正式站点：https://anime-museum-github.yijiedororo.workers.dev/
 - 托管方式是 **Cloudflare Workers静态资产**，Worker名称 `anime-museum-github`。默认配置 `wrangler.jsonc`，资产目录 `dist`。`wrangler.pages.toml` 仅供可选Pages部署；不要默认另建站点。
+- Cloudflare Builds实际部署命令为 `npx wrangler deploy --config wrangler.workers.jsonc --name anime-museum-github`。保留 `wrangler.workers.jsonc` 兼容入口，并与 `wrangler.jsonc` 保持一致；未先修改控制台部署命令并验证前，不要删除或改名。`npm run deploy:check`同时校验两个入口。
 - 常规检查：`npm ci`（依赖缺失或锁文件更新时）、`npm run build`、部署配置变化时运行 `npm run deploy:check`。`dist` 是生成目录，应修改源码后重新构建。
 - 对用户要求发布的修改，检查通过后提交并推送已授权的仓库，再核对公网结果。构建会生成 `/build-info.json`；Workers Builds会把源提交SHA写入该文件，可用它确认公网已经部署到对应提交。仅有HTTP 200或构建开始，不等于本次更新已上线。
 - 缺少GitHub写入授权时，完成所有能独立完成的本地工作，保留可审阅的提交，说明真实授权缺口；不索要密码、令牌，不把凭证写入文件或日志。

@@ -14,7 +14,7 @@
     "start": "node tools/preview.mjs",
     "deploy:pages": "npm run build && wrangler pages deploy dist --config wrangler.pages.toml",
     "deploy:workers": "npm run build && wrangler deploy",
-    "deploy:check": "wrangler deploy --dry-run"
+    "deploy:check": "wrangler deploy --dry-run && wrangler deploy --config wrangler.workers.jsonc --name anime-museum-github --dry-run"
   },
   "devDependencies": {
     "wrangler": "4.151.3"

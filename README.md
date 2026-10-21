@@ -28,17 +28,19 @@ npm run preview
 - Worker名称：`anime-museum-github`
 - 当前配置：`wrangler.jsonc`，静态资产目录：`dist`
 
-Cloudflare Workers已经由站点所有者连接到本仓库。Workers Builds中的设置应为：
+Cloudflare Workers已经由站点所有者连接到本仓库。根据2026年10月21日构建日志，Workers Builds使用以下设置：
 
 | 设置 | 内容 |
 |---|---|
 | Build command | npm run build |
-| Deploy command | npx wrangler deploy |
+| Deploy command | npx wrangler deploy --config wrangler.workers.jsonc --name anime-museum-github |
 | Root directory | 仓库根目录 |
 | Production branch | main |
 | Node.js | 22或更新的受支持版本；.nvmrc指定22 |
 
 后续维护：同步GitHub最新版本 → 修改 → `npm run build` → 提交 → 推送`main` → 等待Workers Builds成功 → 核对公网。部署工具Wrangler已通过package-lock固定版本。
+
+`wrangler.workers.jsonc`保留给控制台现有命令使用，与默认配置`wrangler.jsonc`保持一致；不需要更改控制台设置。`npm run deploy:check`会在不发布的情况下同时校验两个配置入口。
 
 每次构建会生成 `/build-info.json`，其中`commit`读取Cloudflare注入的源提交SHA，用于确认本次提交确实已经上线。本地非CI构建时该字段为空，不能当成正式部署成功的凭据。
 
@@ -56,7 +58,7 @@ Cloudflare Workers已经由站点所有者连接到本仓库。Workers Builds中
 - `tools/verify.mjs`：校验作品、图片、商品、活动及交互节点。
 - `tools/preview.mjs`：仅本机可访问的预览服务。
 - `tools/`其他Python/历史导入工具：保留维护源码，**不是日常构建步骤**。许多工具读取旧缓存或使用一次性整理日期，不要直接运行覆盖新资料。完整缓存、研究输入、旧版页面和截图在“完整备份ZIP”中。
-- `wrangler.jsonc`：当前Workers配置；`wrangler.pages.toml`：可选Pages配置。
+- `wrangler.jsonc`：默认Workers配置；`wrangler.workers.jsonc`：现有自动部署命令的兼容配置；`wrangler.pages.toml`：可选Pages配置。
 
 ## 范围说明
 
