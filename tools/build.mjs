@@ -59,4 +59,13 @@ await writeFile(resolve(output, 'reports/gakumas-2026-10-20.html'), reportPage);
 const html = (await readFile(resolve(root, 'index.html'), 'utf8')).replace(/<a href="index\.before-museum\.html"[^>]*>.*?<\/a>/, '');
 await writeFile(resolve(output, 'index.html'), html);
 for (const file of ['_headers', '404.html']) await copyFile(resolve(root, 'public', file), resolve(output, file));
+await writeFile(resolve(output, 'build-info.json'), JSON.stringify({
+  project: 'anime-museum-github',
+  repository: 'https://github.com/yijiedororo-coder/anime-museum-github',
+  commit: process.env.WORKERS_CI_COMMIT_SHA || process.env.GITHUB_SHA || null,
+  builtAtUTC: new Date().toISOString(),
+  works: items.length,
+  products: items.reduce((total, work) => total + (work.merch?.length || 0), 0),
+  events: items.reduce((total, work) => total + (work.events?.length || 0), 0)
+}, null, 2) + '\n');
 console.log(JSON.stringify({ output, works: items.length, images: posters.size, status: 'build complete' }));

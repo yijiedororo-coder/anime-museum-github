@@ -19,3 +19,5 @@
   Cache-Control: public, max-age=0, must-revalidate
 /assets/*
   Cache-Control: public, max-age=86400
+/build-info.json
+  Cache-Control: no-cache

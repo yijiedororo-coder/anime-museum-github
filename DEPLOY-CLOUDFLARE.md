@@ -2,6 +2,26 @@
 
 资料核对日期：2026年10月21日，日本时间。这个包没有登录或操作你的外部账号。
 
+## 当前项目已经使用Workers，后续维护从这里开始
+
+正式站点：https://anime-museum-github.yijiedororo.workers.dev/
+
+正式仓库：https://github.com/yijiedororo-coder/anime-museum-github
+
+站点所有者已说明Workers连接了本仓库，后续维护沿用同一个Worker。默认配置是`wrangler.jsonc`，名称必须与现有Worker一致：`anime-museum-github`。不需要重新创建Pages项目。
+
+1. 在这个仓库的工作副本修改源码或数据。
+2. 依赖缺失/锁文件改变时运行`npm ci`，之后运行`npm run build`。部署配置改变时再运行`npm run deploy:check`（不上传、不发布）。
+3. 本地检查通过后提交并推送正式分支`main`。推送会触发公网更新。
+4. Cloudflare → Workers & Pages → `anime-museum-github` → Builds，应设置构建命令`npm run build`、部署命令`npx wrangler deploy`、根目录为仓库根目录。
+5. 等待该提交的构建和部署成功，然后打开网站检查。
+
+**成功标志**：Cloudflare显示对应提交部署成功，网站`/build-info.json`里的`commit`与刚推送的完整Git SHA一致。仅仅首页能打开，不能证明刚才的修改已经部署。
+
+本地手动部署仍可运行`npm run deploy:workers`，但需要Cloudflare登录授权。已经配置Git自动部署时，日常推送GitHub即可。
+
+以下各节保留初次上传与其他部署方案，当前项目不必重新操作。
+
 ## 一、先选对文件
 
 1. 日常开发、上传GitHub：解压 `anime-museum-github.zip`。
@@ -23,7 +43,7 @@
 
 说明：发布公共仓库会让任何人看到源码和数据。包内未加入账号凭证；图片和资料仍归各权利人。
 
-## 三、连接Cloudflare Pages（推荐，后续自动更新）
+## 三、可选：连接Cloudflare Pages（下述为另一种部署方案）
 
 1. 登录 [Cloudflare控制台](https://dash.cloudflare.com/)，进入Workers & Pages。
 2. 选择Create application → Pages → Connect to Git。请确认进入Pages，不是新建普通Worker。
@@ -32,7 +52,7 @@
 
 | 设置 | 填写 |
 |---|---|
-| Project name | anime-museum（若更名，同步修改仓库wrangler.toml里的name） |
+| Project name | anime-museum（若更名，同步修改仓库wrangler.pages.toml里的name） |
 | Production branch | main，或你仓库实际的默认分支 |
 | Framework preset | None |
 | Build command | npm run build |
@@ -72,10 +92,10 @@ npx wrangler pages deploy . --project-name anime-museum --branch main
 ```powershell
 npm run build
 npx wrangler login
-npx wrangler deploy --config wrangler.workers.jsonc
+npx wrangler deploy
 ```
 
-使用不同配置文件避免Pages与Workers混淆。Workers的名字在 `wrangler.workers.jsonc` 中修改。这里仅托管静态资产，没有额外爬虫或数据库后端。
+使用不同配置文件避免Pages与Workers混淆。Workers的名字在 `wrangler.jsonc` 中修改。这里仅托管静态资产，没有额外爬虫或数据库后端。
 
 ## 六、容易遇到的情况
 

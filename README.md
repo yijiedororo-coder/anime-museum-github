@@ -9,30 +9,42 @@
 
 ## 开始使用
 
-安装 Node.js 22 或更新的受支持版本，打开本目录的终端：
+安装 Node.js 22 或更新的受支持版本，首次进入本目录或锁文件更新后先执行 `npm ci`，再运行：
 
 ```powershell
 npm run build
 npm run preview
 ```
 
-成功标志：出现 `check passed`、`build complete`，随后浏览器打开 http://127.0.0.1:4173 能看见博物馆。构建和预览只使用Node内置模块，无需安装前端依赖。
+成功标志：出现 `check passed`、`build complete`，随后浏览器打开 http://127.0.0.1:4173 能看见博物馆。构建和预览使用Node内置模块；Cloudflare部署配置检查还会使用锁定版本的Wrangler。
 
 上传GitHub前先解压源码包，上传里面的文件；不要只把ZIP放进仓库。完整步骤见 [部署操作说明](DEPLOY-CLOUDFLARE.md)。
 
-## Cloudflare Pages推荐设置
+## 当前网站：Cloudflare Workers自动部署
+
+- 维护仓库：https://github.com/yijiedororo-coder/anime-museum-github
+- 正式网站：https://anime-museum-github.yijiedororo.workers.dev/
+- 正式分支：`main`
+- Worker名称：`anime-museum-github`
+- 当前配置：`wrangler.jsonc`，静态资产目录：`dist`
+
+Cloudflare Workers已经由站点所有者连接到本仓库。Workers Builds中的设置应为：
 
 | 设置 | 内容 |
 |---|---|
-| 创建方式 | Pages → Connect to Git → GitHub |
-| Framework preset | None |
-| Production branch | main（以实际分支为准） |
 | Build command | npm run build |
-| Build output directory | dist |
-| Root directory | 留空，仓库根目录 |
-| Node.js | .nvmrc 已指定22；无需配置密钥 |
+| Deploy command | npx wrangler deploy |
+| Root directory | 仓库根目录 |
+| Production branch | main |
+| Node.js | 22或更新的受支持版本；.nvmrc指定22 |
 
-后续修改这个GitHub仓库并Push后，Cloudflare会自动构建更新。原Sites网址不会自动跟着更新；两边现在是独立部署。
+后续维护：同步GitHub最新版本 → 修改 → `npm run build` → 提交 → 推送`main` → 等待Workers Builds成功 → 核对公网。部署工具Wrangler已通过package-lock固定版本。
+
+每次构建会生成 `/build-info.json`，其中`commit`读取Cloudflare注入的源提交SHA，用于确认本次提交确实已经上线。本地非CI构建时该字段为空，不能当成正式部署成功的凭据。
+
+原Sites网址是另一份独立部署。原Codex定时采集任务也没有自动迁移，不能把它在旧目录里写入的数据视为GitHub已更新。
+
+可选Pages部署保留在`wrangler.pages.toml`，通过`npm run deploy:pages`显式调用；当前正式站点使用Workers。
 
 ## 文件分工
 
@@ -44,7 +56,7 @@ npm run preview
 - `tools/verify.mjs`：校验作品、图片、商品、活动及交互节点。
 - `tools/preview.mjs`：仅本机可访问的预览服务。
 - `tools/`其他Python/历史导入工具：保留维护源码，**不是日常构建步骤**。许多工具读取旧缓存或使用一次性整理日期，不要直接运行覆盖新资料。完整缓存、研究输入、旧版页面和截图在“完整备份ZIP”中。
-- `wrangler.toml`：Pages配置。`wrangler.workers.jsonc`：可选Workers静态资产配置。
+- `wrangler.jsonc`：当前Workers配置；`wrangler.pages.toml`：可选Pages配置。
 
 ## 范围说明
 

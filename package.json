@@ -12,7 +12,11 @@
     "build": "node tools/verify.mjs && node tools/build.mjs",
     "preview": "node tools/preview.mjs",
     "start": "node tools/preview.mjs",
-    "deploy:pages": "npm run build && npx wrangler pages deploy dist",
-    "deploy:workers": "npm run build && npx wrangler deploy --config wrangler.workers.jsonc"
+    "deploy:pages": "npm run build && wrangler pages deploy dist --config wrangler.pages.toml",
+    "deploy:workers": "npm run build && wrangler deploy",
+    "deploy:check": "wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "4.151.3"
   }
 }
