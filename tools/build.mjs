@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile, copyFile, rm } from 'node:fs/promises';
 import { dirname, resolve, relative, isAbsolute } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import vm from 'node:vm';
+import { buildChronology } from './build-chronology.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const output = resolve(root, 'dist');
@@ -16,6 +17,7 @@ vm.runInNewContext(source, context, { timeout: 3000 });
 vm.runInNewContext(await readFile(resolve(root, 'data/gakumas-data.js'), 'utf8'), context, { timeout: 3000 });
 vm.runInNewContext(await readFile(resolve(root, 'data/aobuta-data.js'), 'utf8'), context, { timeout: 3000 });
 const items = [...context.window.ANIME_CATALOG.items, ...context.window.MUSEUM_ADDITIONS.items,...context.window.MUSEUM_EVENTS.items];
+await buildChronology(root, output, items);
 const posters = new Set(items.flatMap(item => [item, ...(item.alternateRecords || [])]).map(item => item.localPoster).filter(Boolean));
 for (const item of items) for (const goods of item.merch || []) if (!/^https?:/.test(goods.image)) posters.add(goods.image);
 for (const asset of posters) {

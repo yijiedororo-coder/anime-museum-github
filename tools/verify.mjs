@@ -17,6 +17,7 @@ for(const work of all){
  if(work.merch){
   products+=work.merch.length;assert.equal(new Set(work.merch.map(g=>g.id)).size,work.merch.length);
   if(work.collectionReport)assert.equal(work.collectionReport.products,work.merch.length,'周边汇总数量需要同步');
+  if(work.chronologyResearch){assert.equal(work.chronologyResearch.products,work.merch.length,'按年份调查数量必须同步');assert(work.goodsExport&&work.researchReportUrl&&work.channelSummary.length);assert(work.chronologyResearch.sources.every(s=>s.url.startsWith('https://')&&s.checkedAtJST&&s.sha256));}
   for(const g of work.merch){assert(g.name&&g.sourceUrl.startsWith('https://'));assert(Array.isArray(g.channels));if(!g.image.startsWith('https://'))local(g.image);for(const c of g.channels)assert(c.url.startsWith('https://'),'渠道必须使用HTTPS');}
  }
  if(work.events){events+=work.events.length;assert.equal(new Set(work.events.map(e=>e.id)).size,work.events.length);for(const e of work.events){assert(e.sourceUrl.startsWith('https://'));for(const k of e.sources)assert(work.eventSources[k]);}}
