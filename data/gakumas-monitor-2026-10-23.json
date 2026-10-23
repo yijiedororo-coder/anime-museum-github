@@ -1,0 +1,1511 @@
+{
+  "checkedAt": "2026-10-23T09:02:56+09:00",
+  "newProducts": 0,
+  "changedProducts": 52,
+  "newChannelLinks": 130,
+  "changedProductIds": [
+    "zuta-article-28183-astand_gkmas14-big",
+    "zuta-article-28183-astand_gkmas15-big",
+    "zuta-article-28183-astand_gkmas16-big",
+    "zuta-article-28183-astand_gkmas17-big",
+    "zuta-article-28183-astand_gkmas18-big",
+    "zuta-article-28183-astand_gkmas19-big",
+    "zuta-article-28183-astand_gkmas20-big",
+    "zuta-article-28183-astand_gkmas21-big",
+    "zuta-article-28183-astand_gkmas22-big",
+    "zuta-article-28183-astand_gkmas23-big",
+    "zuta-article-28183-astand_gkmas24-big",
+    "zuta-article-28183-astand_gkmas25-big",
+    "zuta-article-28183-astand_gkmas26-big",
+    "zuta-article-28183-cushion_gkmas01",
+    "zuta-article-28183-cushion_gkmas02",
+    "zuta-article-28183-cushion_gkmas03",
+    "zuta-article-28183-cushion_gkmas04",
+    "zuta-article-28183-cushion_gkmas05",
+    "zuta-article-28183-cushion_gkmas06",
+    "zuta-article-28183-cushion_gkmas07",
+    "zuta-article-28183-cushion_gkmas08",
+    "zuta-article-28183-cushion_gkmas09",
+    "zuta-article-28183-cushion_gkmas10",
+    "zuta-article-28183-cushion_gkmas11",
+    "zuta-article-28183-cushion_gkmas12",
+    "zuta-article-28183-cushion_gkmas13",
+    "zuta-article-28183-fulltshirt_gkmas01",
+    "zuta-article-28183-fulltshirt_gkmas02",
+    "zuta-article-28183-fulltshirt_gkmas03",
+    "zuta-article-28183-fulltshirt_gkmas04",
+    "zuta-article-28183-fulltshirt_gkmas05",
+    "zuta-article-28183-fulltshirt_gkmas06",
+    "zuta-article-28183-fulltshirt_gkmas07",
+    "zuta-article-28183-fulltshirt_gkmas08",
+    "zuta-article-28183-fulltshirt_gkmas09",
+    "zuta-article-28183-fulltshirt_gkmas10",
+    "zuta-article-28183-fulltshirt_gkmas11",
+    "zuta-article-28183-fulltshirt_gkmas12",
+    "zuta-article-28183-fulltshirt_gkmas13",
+    "zuta-article-28183-tape_gkmas01-b2ws",
+    "zuta-article-28183-tape_gkmas02-b2ws",
+    "zuta-article-28183-tape_gkmas03-b2ws",
+    "zuta-article-28183-tape_gkmas04-b2ws",
+    "zuta-article-28183-tape_gkmas05-b2ws",
+    "zuta-article-28183-tape_gkmas06-b2ws",
+    "zuta-article-28183-tape_gkmas07-b2ws",
+    "zuta-article-28183-tape_gkmas08-b2ws",
+    "zuta-article-28183-tape_gkmas09-b2ws",
+    "zuta-article-28183-tape_gkmas10-b2ws",
+    "zuta-article-28183-tape_gkmas11-b2ws",
+    "zuta-article-28183-tape_gkmas12-b2ws",
+    "zuta-figure-13353-5da5feb59411"
+  ],
+  "addedLinks": [
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas01",
+      "name": "カーテン魂 · グラフィックTシャツ（花海咲季／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077222?variant=67841244692717",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077222%3Fvariant%3D67841244692717",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas02",
+      "name": "カーテン魂 · グラフィックTシャツ（月村手毬／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077239?variant=67841244823789",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077239%3Fvariant%3D67841244823789",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas03",
+      "name": "カーテン魂 · グラフィックTシャツ（藤田ことね／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077246?variant=67841244954861",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077246%3Fvariant%3D67841244954861",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas04",
+      "name": "カーテン魂 · グラフィックTシャツ（雨夜 燕／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077253?variant=67841245118701",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077253%3Fvariant%3D67841245118701",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas05",
+      "name": "カーテン魂 · グラフィックTシャツ（有村麻央／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077260?variant=67841245315309",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077260%3Fvariant%3D67841245315309",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas06",
+      "name": "カーテン魂 · グラフィックTシャツ（葛城リーリヤ／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077277?variant=67841245446381",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077277%3Fvariant%3D67841245446381",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas07",
+      "name": "カーテン魂 · グラフィックTシャツ（倉本千奈／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077284?variant=67841245544685",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077284%3Fvariant%3D67841245544685",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas08",
+      "name": "カーテン魂 · グラフィックTシャツ（紫雲清夏／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077291?variant=67841245741293",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077291%3Fvariant%3D67841245741293",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas09",
+      "name": "カーテン魂 · グラフィックTシャツ（篠澤 広／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077307?variant=67841245905133",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077307%3Fvariant%3D67841245905133",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas10",
+      "name": "カーテン魂 · グラフィックTシャツ（十王星南／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077314?variant=67841246003437",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077314%3Fvariant%3D67841246003437",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas11",
+      "name": "カーテン魂 · グラフィックTシャツ（秦谷美鈴／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077321?variant=67841246134509",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077321%3Fvariant%3D67841246134509",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas12",
+      "name": "カーテン魂 · グラフィックTシャツ（花海佑芽／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077338?variant=67841246298349",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077338%3Fvariant%3D67841246298349",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas13",
+      "name": "カーテン魂 · グラフィックTシャツ（姫崎莉波／ENDLESS DANCE）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883077345?variant=67841246429421",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883077345%3Fvariant%3D67841246429421",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas14-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（花海咲季／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066592",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066592",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas15-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（月村手毬／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066608",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066608",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas16-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（藤田ことね／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066615",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066615",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas17-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（雨夜 燕／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066622",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066622",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas18-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（有村麻央／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066639",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066639",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas19-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（葛城リーリヤ／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066646",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066646",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas20-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（倉本千奈／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066653",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066653",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas21-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（紫雲清夏／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066660",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066660",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas22-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（篠澤 広／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066677",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066677",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas23-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（十王星南／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066684",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066684",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas24-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（秦谷美鈴／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066691",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066691",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas25-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（花海佑芽／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066707",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066707",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas26-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（姫崎莉波／トレーニング服）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066714",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066714",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas01-b2ws",
+      "name": "カーテン魂 · B2タペストリー（花海咲季／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066080",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066080",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas02-b2ws",
+      "name": "カーテン魂 · B2タペストリー（月村手毬／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066097",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066097",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas03-b2ws",
+      "name": "カーテン魂 · B2タペストリー（藤田ことね／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066103",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066103",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas04-b2ws",
+      "name": "カーテン魂 · B2タペストリー（有村麻央／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066110",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066110",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas05-b2ws",
+      "name": "カーテン魂 · B2タペストリー（葛城リーリヤ／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066127",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066127",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas06-b2ws",
+      "name": "カーテン魂 · B2タペストリー（倉本千奈／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066134",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066134",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas07-b2ws",
+      "name": "カーテン魂 · B2タペストリー（紫雲清夏／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066141",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066141",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas08-b2ws",
+      "name": "カーテン魂 · B2タペストリー（篠澤 広／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066158",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066158",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas09-b2ws",
+      "name": "カーテン魂 · B2タペストリー（十王星南／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066165",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066165",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas10-b2ws",
+      "name": "カーテン魂 · B2タペストリー（秦谷美鈴／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066172",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066172",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas11-b2ws",
+      "name": "カーテン魂 · B2タペストリー（花海佑芽／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066189",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066189",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas12-b2ws",
+      "name": "カーテン魂 · B2タペストリー（姫崎莉波／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066196",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066196",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas01",
+      "name": "カーテン魂 · クッションカバー（花海咲季）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066332",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066332",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas02",
+      "name": "カーテン魂 · クッションカバー（月村手毬）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066349",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066349",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas03",
+      "name": "カーテン魂 · クッションカバー（藤田ことね）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066356",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066356",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas04",
+      "name": "カーテン魂 · クッションカバー（雨夜 燕）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066363",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066363",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas05",
+      "name": "カーテン魂 · クッションカバー（有村麻央）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066370",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066370",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas06",
+      "name": "カーテン魂 · クッションカバー（葛城リーリヤ）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066387",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066387",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas07",
+      "name": "カーテン魂 · クッションカバー（倉本千奈）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066394",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066394",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas08",
+      "name": "カーテン魂 · クッションカバー（紫雲清夏）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066400",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066400",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas09",
+      "name": "カーテン魂 · クッションカバー（篠澤 広）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066417",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066417",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas10",
+      "name": "カーテン魂 · クッションカバー（十王星南）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066424",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066424",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas11",
+      "name": "カーテン魂 · クッションカバー（秦谷美鈴）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066431",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066431",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas12",
+      "name": "カーテン魂 · クッションカバー（花海佑芽）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066448",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066448",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas13",
+      "name": "カーテン魂 · クッションカバー（姫崎莉波）",
+      "channel": {
+        "name": "AnimeStore",
+        "url": "https://anime-store.jp/products/4580883066455",
+        "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F4580883066455",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas01",
+      "name": "カーテン魂 · グラフィックTシャツ（花海咲季／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432183",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432183",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas01",
+      "name": "カーテン魂 · グラフィックTシャツ（花海咲季／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432184",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432184",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas01",
+      "name": "カーテン魂 · グラフィックTシャツ（花海咲季／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432185",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432185",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas02",
+      "name": "カーテン魂 · グラフィックTシャツ（月村手毬／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432186",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432186",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas02",
+      "name": "カーテン魂 · グラフィックTシャツ（月村手毬／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432187",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432187",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas02",
+      "name": "カーテン魂 · グラフィックTシャツ（月村手毬／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432188",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432188",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas03",
+      "name": "カーテン魂 · グラフィックTシャツ（藤田ことね／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432190",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432190",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas03",
+      "name": "カーテン魂 · グラフィックTシャツ（藤田ことね／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432192",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432192",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas03",
+      "name": "カーテン魂 · グラフィックTシャツ（藤田ことね／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432193",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432193",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas04",
+      "name": "カーテン魂 · グラフィックTシャツ（雨夜 燕／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432194",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432194",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas04",
+      "name": "カーテン魂 · グラフィックTシャツ（雨夜 燕／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432196",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432196",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas04",
+      "name": "カーテン魂 · グラフィックTシャツ（雨夜 燕／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432211",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432211",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas05",
+      "name": "カーテン魂 · グラフィックTシャツ（有村麻央／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432214",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432214",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas05",
+      "name": "カーテン魂 · グラフィックTシャツ（有村麻央／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432216",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432216",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas05",
+      "name": "カーテン魂 · グラフィックTシャツ（有村麻央／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432218",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432218",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas06",
+      "name": "カーテン魂 · グラフィックTシャツ（葛城リーリヤ／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432225",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432225",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas06",
+      "name": "カーテン魂 · グラフィックTシャツ（葛城リーリヤ／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432231",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432231",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas06",
+      "name": "カーテン魂 · グラフィックTシャツ（葛城リーリヤ／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432236",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432236",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas07",
+      "name": "カーテン魂 · グラフィックTシャツ（倉本千奈／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432239",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432239",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas07",
+      "name": "カーテン魂 · グラフィックTシャツ（倉本千奈／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432240",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432240",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas07",
+      "name": "カーテン魂 · グラフィックTシャツ（倉本千奈／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432246",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432246",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas08",
+      "name": "カーテン魂 · グラフィックTシャツ（紫雲清夏／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432252",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432252",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas08",
+      "name": "カーテン魂 · グラフィックTシャツ（紫雲清夏／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432257",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432257",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas08",
+      "name": "カーテン魂 · グラフィックTシャツ（紫雲清夏／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432259",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432259",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas09",
+      "name": "カーテン魂 · グラフィックTシャツ（篠澤 広／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432260",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432260",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas09",
+      "name": "カーテン魂 · グラフィックTシャツ（篠澤 広／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432261",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432261",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas09",
+      "name": "カーテン魂 · グラフィックTシャツ（篠澤 広／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432263",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432263",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas10",
+      "name": "カーテン魂 · グラフィックTシャツ（十王星南／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432266",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432266",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas10",
+      "name": "カーテン魂 · グラフィックTシャツ（十王星南／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432269",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432269",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas10",
+      "name": "カーテン魂 · グラフィックTシャツ（十王星南／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432272",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432272",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas11",
+      "name": "カーテン魂 · グラフィックTシャツ（秦谷美鈴／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432276",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432276",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas11",
+      "name": "カーテン魂 · グラフィックTシャツ（秦谷美鈴／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432278",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432278",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas11",
+      "name": "カーテン魂 · グラフィックTシャツ（秦谷美鈴／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432279",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432279",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas12",
+      "name": "カーテン魂 · グラフィックTシャツ（花海佑芽／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432284",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432284",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas12",
+      "name": "カーテン魂 · グラフィックTシャツ（花海佑芽／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432289",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432289",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas12",
+      "name": "カーテン魂 · グラフィックTシャツ（花海佑芽／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432296",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432296",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas13",
+      "name": "カーテン魂 · グラフィックTシャツ（姫崎莉波／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432299",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432299",
+        "linkType": "商品页（来源图片对应；Mサイズ（同图下方尺码链接对应）；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas13",
+      "name": "カーテン魂 · グラフィックTシャツ（姫崎莉波／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432300",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432300",
+        "linkType": "商品页（来源图片对应；Lサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-fulltshirt_gkmas13",
+      "name": "カーテン魂 · グラフィックTシャツ（姫崎莉波／ENDLESS DANCE）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432302",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432302",
+        "linkType": "商品页（来源图片对应；XLサイズ；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 7,700円（グラフィックTシャツ）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas14-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（花海咲季／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432128",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432128",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas15-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（月村手毬／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432131",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432131",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas16-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（藤田ことね／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432136",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432136",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas17-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（雨夜 燕／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432140",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432140",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas18-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（有村麻央／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432143",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432143",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas19-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（葛城リーリヤ／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432146",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432146",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas20-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（倉本千奈／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432149",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432149",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas21-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（紫雲清夏／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432153",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432153",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas22-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（篠澤 広／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432156",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432156",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas23-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（十王星南／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432162",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432162",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas24-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（秦谷美鈴／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432163",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432163",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas25-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（花海佑芽／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432164",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432164",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-astand_gkmas26-big",
+      "name": "カーテン魂 · 特大アクリルスタンド（姫崎莉波／トレーニング服）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432166",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432166",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas01-b2ws",
+      "name": "カーテン魂 · B2タペストリー（花海咲季／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432315",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432315",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas02-b2ws",
+      "name": "カーテン魂 · B2タペストリー（月村手毬／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432318",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432318",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas03-b2ws",
+      "name": "カーテン魂 · B2タペストリー（藤田ことね／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432319",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432319",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas04-b2ws",
+      "name": "カーテン魂 · B2タペストリー（有村麻央／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432320",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432320",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas05-b2ws",
+      "name": "カーテン魂 · B2タペストリー（葛城リーリヤ／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432321",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432321",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas06-b2ws",
+      "name": "カーテン魂 · B2タペストリー（倉本千奈／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432323",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432323",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas07-b2ws",
+      "name": "カーテン魂 · B2タペストリー（紫雲清夏／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432324",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432324",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas08-b2ws",
+      "name": "カーテン魂 · B2タペストリー（篠澤 広／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432325",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432325",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas09-b2ws",
+      "name": "カーテン魂 · B2タペストリー（十王星南／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432326",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432326",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas10-b2ws",
+      "name": "カーテン魂 · B2タペストリー（秦谷美鈴／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432327",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432327",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas11-b2ws",
+      "name": "カーテン魂 · B2タペストリー（花海佑芽／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432329",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432329",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-tape_gkmas12-b2ws",
+      "name": "カーテン魂 · B2タペストリー（姫崎莉波／キミとセミブルー）Wスエード",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432331",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432331",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 4,400円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas01",
+      "name": "カーテン魂 · クッションカバー（花海咲季）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432168",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432168",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas02",
+      "name": "カーテン魂 · クッションカバー（月村手毬）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432169",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432169",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas03",
+      "name": "カーテン魂 · クッションカバー（藤田ことね）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432170",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432170",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas04",
+      "name": "カーテン魂 · クッションカバー（雨夜 燕）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432172",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432172",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas05",
+      "name": "カーテン魂 · クッションカバー（有村麻央）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432173",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432173",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas06",
+      "name": "カーテン魂 · クッションカバー（葛城リーリヤ）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432174",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432174",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas07",
+      "name": "カーテン魂 · クッションカバー（倉本千奈）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432175",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432175",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas08",
+      "name": "カーテン魂 · クッションカバー（紫雲清夏）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432176",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432176",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas09",
+      "name": "カーテン魂 · クッションカバー（篠澤 広）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432177",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432177",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas10",
+      "name": "カーテン魂 · クッションカバー（十王星南）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432178",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432178",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas11",
+      "name": "カーテン魂 · クッションカバー（秦谷美鈴）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432179",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432179",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas12",
+      "name": "カーテン魂 · クッションカバー（花海佑芽）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432180",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432180",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-article-28183-cushion_gkmas13",
+      "name": "カーテン魂 · クッションカバー（姫崎莉波）",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432181",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432181",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 2,970円；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-figure-13353-5da5feb59411",
+      "name": "むぎゅみにコレクションフィギュア vol.1 · 6个装BOX",
+      "channel": {
+        "name": "NeoWing",
+        "url": "https://www.neowing.co.jp/product/NEOGDS-1093670",
+        "originalUrl": "https://www.neowing.co.jp/aff/click.cgi/ZRcokempdVE/7677/A894380/product%2FNEOGDS-1093670",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 3,049円（来源列出3,960円参考价）；来源2026-10-23报价，未核实店内结算价"
+      }
+    },
+    {
+      "id": "zuta-figure-13353-5da5feb59411",
+      "name": "むぎゅみにコレクションフィギュア vol.1 · 6个装BOX",
+      "channel": {
+        "name": "Colleize",
+        "url": "https://colleize.com/lineup/400/432171",
+        "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F432171",
+        "linkType": "商品页（来源图片对应；店内规格与库存未核实）",
+        "sourceNote": "2026-10-23按来源正文商品图及其下方明确尺码链接对应；不把广告推荐当新品，不代表实时库存。 3,960円；来源2026-10-23报价，未核实店内结算价"
+      }
+    }
+  ],
+  "ignoredChanges": "sunflower及藤田ことね文章仅调整商店排列；PLv新文章与ガシャ变更为游戏攻略；3rd Single渠道事实已收录。",
+  "sourceErrors": [],
+  "retailerSpotChecks": [
+    {
+      "url": "https://anime-store.jp/products/4580883077222?variant=67841244692717",
+      "status": 200,
+      "title": "『学園アイドルマスター』グラフィックTシャツ(花海咲季/ENDLESS DANCE) - Anime Store.JP"
+    },
+    {
+      "url": "https://colleize.com/lineup/400/432183",
+      "status": 200,
+      "title": "colleize（コレイズ）| 公式・ライセンスグッズ通販"
+    },
+    {
+      "url": "https://www.neowing.co.jp/product/NEOGDS-1093670",
+      "status": 200,
+      "title": "BUSHIROAD THE BOX 学園アイドルマスター むぎゅみにコレクションフィギュア vol.1 BOX グッズ - Neowing"
+    }
+  ]
+}

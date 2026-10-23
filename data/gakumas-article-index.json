@@ -7955,7 +7955,8 @@
       "リンク付きグッズ画像",
       "新增NeoWing报价：T恤7,084日元、立牌及B2挂画4,048日元、靠垫套2,732日元。",
       "51款新增NeoWing及Animate渠道；T恤保留不同尺码入口。NeoWing页面标注2027年2月发售，与厂商直营批次分开记录。",
-      "Animate页面自动核查受限，来源图示角色与尺码链接已保留并明确标注。"
+      "Animate页面自动核查受限，来源图示角色与尺码链接已保留并明确标注。",
+      "2026-10-23补充：AnimeStore与Colleize商品页，按来源图片及M/L/XL尺码逐项映射；保留既有官方、NeoWing及Animate链接。"
     ],
     "prices": [
       "7,700円",
@@ -7974,7 +7975,7 @@
     "dates": [],
     "image": "https://zutapoke.com/wp-content/uploads/2026/10/828278708fbce8d0208e3494757f4b9c.png",
     "publishedAt": "2026-10-14",
-    "checkedAt": "2026-10-19",
+    "checkedAt": "2026-10-23",
     "products": 51,
     "verificationUrls": [
       "https://www.curtain-damashii.com/item/fulltshirt_gkmas01/",
@@ -8114,7 +8115,8 @@
     "sections": [
       "リンク付きグッズ画像",
       "BOX版本全5种、1BOX含6个；定价3,960日元。DMM来源报价2,970日元，NeoWing原文报价3,049日元。",
-      "NeoWing按钮误链到DMM，正确购买入口尚未确认；不把不同规格或胶囊版并为同一报价。"
+      "NeoWing按钮误链到DMM，正确购买入口尚未确认；不把不同规格或胶囊版并为同一报价。",
+      "2026-10-23补充：新增NeoWing及Colleize商品链接；来源报价分别为3,049円和3,960円，不代表实时库存或结算价。"
     ],
     "prices": [
       "3,960円",
@@ -8131,7 +8133,7 @@
     ],
     "dates": [],
     "image": "https://zutapoke.com/wp-content/uploads/2026/10/c790f851fc09200d7ad17a8644bcf797.png",
-    "checkedAt": "2026-10-19"
+    "checkedAt": "2026-10-23"
   },
   {
     "title": "【週刊】学園アイドルマスター通信 46号（2026/10/18）",
