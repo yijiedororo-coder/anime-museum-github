@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-10-26T09:04:39+09:00",
+  "newProductIds": [
+    "zuta-article-28827-book8-animate-3619077",
+    "zuta-article-28827-book8-animate-3619076",
+    "zuta-article-28827-book8-animate-3618752",
+    "zuta-article-28827-book8-animate-3586068",
+    "zuta-article-28827-book8-animate-3619079",
+    "zuta-article-28827-book8-animate-3619078",
+    "zuta-article-28827-book8-animate-3618753",
+    "zuta-article-28827-book8-animate-3587696"
+  ],
+  "changedProductIds": [
+    "zuta-figure-13353-6f87df574942",
+    "zuta-figure-13353-3b3f4c074c89",
+    "zuta-figure-13353-921b343e94d5",
+    "zuta-db-146",
+    "zuta-db-147",
+    "zuta-db-148",
+    "zuta-db-149",
+    "zuta-db-150",
+    "zuta-db-151"
+  ],
+  "newProducts": 8,
+  "changedProducts": 9,
+  "newArticles": 1,
+  "changedArticles": 4,
+  "sourceErrors": [],
+  "officialVerification": "https://bushiroad-store.com/products/2000292134702",
+  "limitations": [
+    "两款ESPRESTO具体日期来自被追踪站两篇文章，尚未获厂商独立确认。",
+    "周报部分折扣百分比与数字不一致，未采用百分比；历史面板移除不等于售罄。",
+    "第8卷无已核对封面，使用明确标注的作品占位图；发售日期和店内附赠细则待核。"
+  ]
+}
