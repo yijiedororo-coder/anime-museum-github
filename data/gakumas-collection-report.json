@@ -1,19 +1,19 @@
 {
-  "checkedAt": "2026-10-26",
+  "checkedAt": "2026-10-27",
   "databaseRows": 5271,
   "databaseProducts": 5183,
   "mergedDuplicateRows": 88,
   "archivePages": 16,
   "articlesRead": 286,
   "plushSupplement": 69,
-  "products": 5544,
+  "products": 5545,
   "categories": {
     "立牌": 1118,
     "徽章": 952,
     "挂件": 632,
     "文具": 4,
     "娃娃 / 毛绒": 313,
-    "手办": 122,
+    "手办": 123,
     "音乐": 52,
     "卡片 / 文具": 1037,
     "生活 / 应援": 296,
@@ -35,10 +35,11 @@
   "failures": [],
   "imagePolicy": "新增数据库图片引用来源公开图片地址，旧19条仍为本地图片。",
   "latestUpdate": {
-    "checkedAt": "2026-10-26",
-    "newProducts": 8,
-    "changedProducts": 9,
-    "newArticles": 1,
-    "changedArticles": 4
+    "checkedAt": "2026-10-27",
+    "newProducts": 1,
+    "changedProducts": 0,
+    "newArticles": 0,
+    "changedArticles": 1,
+    "scope": "来源景品日程新增系列预告，未作为官方确认单品"
   }
 }

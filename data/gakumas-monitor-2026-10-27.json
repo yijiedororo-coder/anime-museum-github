@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-27T09:05:16+09:00",
+  "newProducts": 1,
+  "changedProducts": 0,
+  "newArticles": 0,
+  "changedArticles": 1,
+  "newProductIds": [
+    "zuta-preview-12413-angel-devil-saki-ume-202704"
+  ],
+  "databaseRows": 5271,
+  "articlesChecked": 286,
+  "sourceErrors": [],
+  "ignoredChanges": "乐天促销横幅移除、Battle Spirits相同渠道面板排序变化，以及历史游戏直播嵌入摘要时间修订；未发现价格、月份或渠道新增。",
+  "limitations": "仅来源系列预告；不声称厂商确认、两款正式单品、实时库存或可预约。"
+}
