@@ -1,0 +1,872 @@
+{
+  "checkedAt": "2026-10-28T09:09:21+09:00",
+  "newProducts": 3,
+  "changedProducts": 125,
+  "newChannelLinks": 1112,
+  "newProductIds": [
+    "zuta-plush-card-3ca7a337a053",
+    "zuta-plush-card-8c0f973c93c5",
+    "zuta-plush-card-e82b4801569e"
+  ],
+  "changedProductIds": [
+    "zuta-db-254",
+    "zuta-db-255",
+    "zuta-db-256",
+    "zuta-db-257",
+    "zuta-db-258",
+    "zuta-db-259",
+    "zuta-db-260",
+    "zuta-db-261",
+    "zuta-db-262",
+    "zuta-db-263",
+    "zuta-db-264",
+    "zuta-db-265",
+    "zuta-db-266",
+    "zuta-db-267",
+    "zuta-db-268",
+    "zuta-db-269",
+    "zuta-db-270",
+    "zuta-db-271",
+    "zuta-db-272",
+    "zuta-db-273",
+    "zuta-db-274",
+    "zuta-db-275",
+    "zuta-db-276",
+    "zuta-db-277",
+    "zuta-db-278",
+    "zuta-db-279",
+    "zuta-db-280",
+    "zuta-db-281",
+    "zuta-db-282",
+    "zuta-db-283",
+    "zuta-db-284",
+    "zuta-db-285",
+    "zuta-db-286",
+    "zuta-db-287",
+    "zuta-db-288",
+    "zuta-db-289",
+    "zuta-db-290",
+    "zuta-db-352",
+    "zuta-db-353",
+    "zuta-db-354",
+    "zuta-db-355",
+    "zuta-db-384",
+    "zuta-db-385",
+    "zuta-db-386",
+    "zuta-db-387",
+    "zuta-db-394",
+    "zuta-db-553",
+    "zuta-db-554",
+    "zuta-db-555",
+    "zuta-db-556",
+    "zuta-db-557",
+    "zuta-db-558",
+    "zuta-db-559",
+    "zuta-db-560",
+    "zuta-db-561",
+    "zuta-db-562",
+    "zuta-db-563",
+    "zuta-db-564",
+    "zuta-db-565",
+    "zuta-plush-674d059aa6b7",
+    "zuta-plush-618297087b77",
+    "zuta-plush-abbd738db6b6",
+    "zuta-plush-2ac7b92ea577",
+    "zuta-plush-ca68e2a6d2e5",
+    "zuta-plush-cb7683923f3d",
+    "zuta-plush-63b4ec8fb33b",
+    "zuta-plush-adfa19913d42",
+    "zuta-plush-b1cafe6e82d4",
+    "zuta-plush-ca86e07b0613",
+    "zuta-plush-e583bd1e7b2b",
+    "zuta-plush-88ddac7eef49",
+    "zuta-plush-6ced0064a2ff",
+    "zuta-plush-d582e5bc7dfe",
+    "zuta-plush-cf224af54879",
+    "zuta-plush-c8d13996bf81",
+    "zuta-plush-ae706d73cad2",
+    "zuta-plush-7f1729e6ffd9",
+    "zuta-plush-e938a2d14391",
+    "zuta-plush-74dadaf6806b",
+    "zuta-plush-b9a172869c0b",
+    "zuta-plush-daa5a7a977fa",
+    "zuta-plush-7d7e9dd0c59d",
+    "zuta-plush-eb9744739c66",
+    "zuta-plush-e0b8401df0c5",
+    "zuta-plush-608adf850609",
+    "zuta-plush-672433e62762",
+    "zuta-plush-197e3428de72",
+    "zuta-plush-bede6deb9ef3",
+    "zuta-plush-675df210e80b",
+    "zuta-plush-ea90280051fa",
+    "zuta-plush-a74ccabdedad",
+    "zuta-plush-87507040a79b",
+    "zuta-plush-b993156822d6",
+    "zuta-plush-2143902d1ab1",
+    "zuta-plush-cb00c1e31286",
+    "zuta-plush-e2a5a289f5b1",
+    "zuta-plush-12f76219d804",
+    "zuta-plush-5c4db7593ea2",
+    "zuta-plush-162ff41c387a",
+    "zuta-plush-0c8424e0839d",
+    "zuta-plush-9332cc634d31",
+    "zuta-plush-ee103ea779ac",
+    "zuta-plush-0c2103671c11",
+    "zuta-plush-f674ba5aaed4",
+    "zuta-plush-ee3dd70af6a6",
+    "zuta-plush-0249228b8f95",
+    "zuta-plush-57d3925f9498",
+    "zuta-plush-a4f4f0ab42b1",
+    "zuta-plush-d570e0fee11f",
+    "zuta-plush-3b08011bcf6c",
+    "zuta-plush-d618e13e519e",
+    "zuta-plush-5f332ae1550c",
+    "zuta-plush-de64944698f3",
+    "zuta-plush-a779c797aa00",
+    "zuta-plush-3313093145f1",
+    "zuta-plush-0387ec2e52b0",
+    "zuta-plush-d6298341830b",
+    "zuta-plush-2e022919fce1",
+    "zuta-plush-5f70f00a5bc9",
+    "zuta-plush-d79232d8898f",
+    "zuta-plush-61e1d9c4a917",
+    "zuta-plush-7f418f46bcfc",
+    "zuta-plush-c9915a4e73e9",
+    "zuta-plush-ac4fb2b43f49",
+    "zuta-preview-12413-angel-devil-saki-ume-202704"
+  ],
+  "cardsMapped": [
+    {
+      "index": 0,
+      "sourceTitle": "ちびぐるみ～3rdコレクション～vol.3",
+      "goods": [
+        "zuta-plush-b1cafe6e82d4"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 1,
+      "sourceTitle": "ちびぐるみ～3rdコレクション～vol.4",
+      "goods": [
+        "zuta-plush-ca86e07b0613"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 2,
+      "sourceTitle": "ちびぐるみ～3rdコレクション～vol.1",
+      "goods": [
+        "zuta-plush-63b4ec8fb33b"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 3,
+      "sourceTitle": "ちびぐるみ～3rdコレクション～vol.2",
+      "goods": [
+        "zuta-plush-adfa19913d42"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 4,
+      "sourceTitle": "ちびぐるみフェイスポーチvol.3",
+      "goods": [
+        "zuta-plush-cb7683923f3d"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 5,
+      "sourceTitle": "ちびぐるみフェイスポーチvol.2",
+      "goods": [
+        "zuta-plush-ca68e2a6d2e5"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 6,
+      "sourceTitle": "ちびぐるみフェイスポーチvol.1",
+      "goods": [
+        "zuta-plush-2ac7b92ea577"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 7,
+      "sourceTitle": "ちびぐるみ～ユニットコレクション～vol.4",
+      "goods": [
+        "zuta-plush-abbd738db6b6"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 8,
+      "sourceTitle": "ちびぐるみ～ユニットコレクション～vol.3",
+      "goods": [
+        "zuta-plush-abbd738db6b6"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 9,
+      "sourceTitle": "ちびぐるみ～ユニットコレクション～vol.1",
+      "goods": [
+        "zuta-plush-674d059aa6b7"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 10,
+      "sourceTitle": "ちびぐるみ～ユニットコレクション～vol.2",
+      "goods": [
+        "zuta-plush-618297087b77"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 11,
+      "sourceTitle": "もふぐっと ちびぐるみ＆バッグセット",
+      "goods": [
+        "zuta-plush-e2a5a289f5b1",
+        "zuta-plush-12f76219d804"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 5
+    },
+    {
+      "index": 12,
+      "sourceTitle": "ちびぐるみ～ジョイフルマーチング～vol.4",
+      "goods": [
+        "zuta-plush-cb00c1e31286"
+      ],
+      "sourceSearchLinks": 16,
+      "images": 1
+    },
+    {
+      "index": 13,
+      "sourceTitle": "ちびぐるみ～ジョイフルマーチング～vol.3",
+      "goods": [
+        "zuta-plush-2143902d1ab1"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 14,
+      "sourceTitle": "ちびぐるみ＆ポーチセット 雨夜 燕",
+      "goods": [
+        "zuta-plush-74dadaf6806b"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 15,
+      "sourceTitle": "ちびぐるみ～ジョイフルマーチング～vol.2",
+      "goods": [
+        "zuta-plush-b993156822d6"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 16,
+      "sourceTitle": "ちびぐるみ～ジョイフルマーチング～vol.1",
+      "goods": [
+        "zuta-plush-87507040a79b"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 17,
+      "sourceTitle": "学園アイドルマスター ちびぐるみ～GiGO限定～vol.4",
+      "goods": [
+        "zuta-plush-a74ccabdedad"
+      ],
+      "sourceSearchLinks": 16,
+      "images": 1
+    },
+    {
+      "index": 18,
+      "sourceTitle": "学園アイドルマスター ちびぐるみ～GiGO限定～vol.3",
+      "goods": [
+        "zuta-plush-ea90280051fa"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 19,
+      "sourceTitle": "学園アイドルマスター ちびぐるみ～GiGO限定～vol.2",
+      "goods": [
+        "zuta-plush-675df210e80b"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 20,
+      "sourceTitle": "学園アイドルマスター ちびぐるみ～GiGO限定～vol.1",
+      "goods": [
+        "zuta-plush-bede6deb9ef3"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 21,
+      "sourceTitle": "ちびぐるみ～学園生活～vol.4",
+      "goods": [
+        "zuta-plush-197e3428de72"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 22,
+      "sourceTitle": "ちびぐるみ～学園生活～vol.3",
+      "goods": [
+        "zuta-plush-672433e62762"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 23,
+      "sourceTitle": "ちびぐるみ～学園生活～vol.2",
+      "goods": [
+        "zuta-plush-608adf850609"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 24,
+      "sourceTitle": "ちびぐるみ～学園生活～vol.1",
+      "goods": [
+        "zuta-plush-e0b8401df0c5"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 25,
+      "sourceTitle": "ちびぐるみ～チアフルアンサンブルver.～vol.3（麻央）",
+      "goods": [
+        "zuta-plush-88ddac7eef49"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 26,
+      "sourceTitle": "ちびぐるみ～チアフルアンサンブルver.～vol.4（清夏）",
+      "goods": [
+        "zuta-plush-e583bd1e7b2b"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 27,
+      "sourceTitle": "ちびぐるみ～チアフルアンサンブルver.～vol.1（佑芽）",
+      "goods": [
+        "zuta-plush-d582e5bc7dfe"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 28,
+      "sourceTitle": "ちびぐるみ～チアフルアンサンブルver.～vol.2（咲季）",
+      "goods": [
+        "zuta-plush-6ced0064a2ff"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 29,
+      "sourceTitle": "ちびぐるみ～on stage!～vol.4",
+      "goods": [
+        "zuta-plush-c8d13996bf81"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 30,
+      "sourceTitle": "ちびぐるみ～on stage!～vol.3",
+      "goods": [
+        "zuta-plush-ae706d73cad2"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 31,
+      "sourceTitle": "ちびぐるみ～on stage!～vol.2",
+      "goods": [
+        "zuta-plush-7f1729e6ffd9"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 32,
+      "sourceTitle": "ちびぐるみ～アンサンブルスパークルver.～（ことね）",
+      "goods": [
+        "zuta-plush-cf224af54879"
+      ],
+      "sourceSearchLinks": 4,
+      "images": 1
+    },
+    {
+      "index": 33,
+      "sourceTitle": "ちびぐるみ～on stage!～vol.1",
+      "goods": [
+        "zuta-plush-e938a2d14391"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 34,
+      "sourceTitle": "ちびぐるみ",
+      "goods": [
+        "zuta-plush-eb9744739c66"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 35,
+      "sourceTitle": "ちびぐるみvol.2",
+      "goods": [
+        "zuta-plush-7d7e9dd0c59d"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 36,
+      "sourceTitle": "ちびぐるみvol.3",
+      "goods": [
+        "zuta-plush-daa5a7a977fa"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 37,
+      "sourceTitle": "ちびぐるみvol.4",
+      "goods": [
+        "zuta-plush-b9a172869c0b"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 38,
+      "sourceTitle": "もちどる（第3弾）",
+      "goods": [
+        "zuta-db-254",
+        "zuta-db-255",
+        "zuta-db-256",
+        "zuta-db-257",
+        "zuta-db-258",
+        "zuta-db-259",
+        "zuta-db-260",
+        "zuta-db-261",
+        "zuta-db-262",
+        "zuta-db-263",
+        "zuta-db-264",
+        "zuta-db-265",
+        "zuta-db-266"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 2
+    },
+    {
+      "index": 39,
+      "sourceTitle": "なりきり!からあげクンぬいぐるみ",
+      "goods": [
+        "zuta-plush-5c4db7593ea2"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 1
+    },
+    {
+      "index": 40,
+      "sourceTitle": "もちどる（第2弾）",
+      "goods": [
+        "zuta-db-267",
+        "zuta-db-268",
+        "zuta-db-269",
+        "zuta-db-270",
+        "zuta-db-271",
+        "zuta-db-272",
+        "zuta-db-273",
+        "zuta-db-274",
+        "zuta-db-275",
+        "zuta-db-276",
+        "zuta-db-277",
+        "zuta-db-278"
+      ],
+      "sourceSearchLinks": 48,
+      "images": 1
+    },
+    {
+      "index": 41,
+      "sourceTitle": "もちどる（第1弾）",
+      "goods": [
+        "zuta-db-279",
+        "zuta-db-280",
+        "zuta-db-281",
+        "zuta-db-282",
+        "zuta-db-283",
+        "zuta-db-284",
+        "zuta-db-285",
+        "zuta-db-286",
+        "zuta-db-287",
+        "zuta-db-288",
+        "zuta-db-289",
+        "zuta-db-290"
+      ],
+      "sourceSearchLinks": 48,
+      "images": 1
+    },
+    {
+      "index": 42,
+      "sourceTitle": "でかふもぬいぐるみ",
+      "goods": [
+        "zuta-plush-9332cc634d31"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 43,
+      "sourceTitle": "ミニぬいぐるみ レッスンウェアver",
+      "goods": [
+        "zuta-plush-0c2103671c11"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 13
+    },
+    {
+      "index": 44,
+      "sourceTitle": "まんなかさいず（ふもふも） ぬいぐるみ",
+      "goods": [
+        "zuta-plush-162ff41c387a",
+        "zuta-plush-ee103ea779ac",
+        "zuta-plush-f674ba5aaed4"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 13
+    },
+    {
+      "index": 45,
+      "sourceTitle": "ミニぬいぐるみ",
+      "goods": [
+        "zuta-plush-ee3dd70af6a6"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 13
+    },
+    {
+      "index": 46,
+      "sourceTitle": "20cmぬいぐるみ",
+      "goods": [
+        "zuta-plush-0c8424e0839d",
+        "zuta-plush-0249228b8f95",
+        "zuta-plush-57d3925f9498",
+        "zuta-plush-a4f4f0ab42b1",
+        "zuta-plush-d570e0fee11f"
+      ],
+      "sourceSearchLinks": 56,
+      "images": 14
+    },
+    {
+      "index": 47,
+      "sourceTitle": "BIGフェイスぬいぐるみVol4",
+      "goods": [
+        "zuta-plush-card-3ca7a337a053"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 48,
+      "sourceTitle": "BIGフェイスぬいぐるみVol3",
+      "goods": [
+        "zuta-plush-0387ec2e52b0"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 49,
+      "sourceTitle": "BIGフェイスぬいぐるみVol2",
+      "goods": [
+        "zuta-plush-3313093145f1"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 50,
+      "sourceTitle": "BIGフェイスぬいぐるみVol1",
+      "goods": [
+        "zuta-plush-a779c797aa00"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 51,
+      "sourceTitle": "一番くじ 学園アイドルマスター Part6 E賞 きららいずマスコット",
+      "goods": [
+        "zuta-plush-card-8c0f973c93c5"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 52,
+      "sourceTitle": "一番くじ 学園アイドルマスター Part4 F賞 きららいずマスコット",
+      "goods": [
+        "zuta-db-352",
+        "zuta-db-353",
+        "zuta-db-354"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 53,
+      "sourceTitle": "くるみたぴぬい vol.1",
+      "goods": [
+        "zuta-plush-61e1d9c4a917"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 54,
+      "sourceTitle": "くるみたぴぬい vol.2",
+      "goods": [
+        "zuta-plush-61e1d9c4a917"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 55,
+      "sourceTitle": "よりぬいミニvol.4（佑芽・美鈴・星南）",
+      "goods": [
+        "zuta-plush-3b08011bcf6c"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 56,
+      "sourceTitle": "よりぬいミニvol.3（清夏・広・莉波）",
+      "goods": [
+        "zuta-plush-d618e13e519e"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 57,
+      "sourceTitle": "よりぬいミニvol.2（麻央・リーリヤ・千奈）",
+      "goods": [
+        "zuta-plush-5f332ae1550c"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 58,
+      "sourceTitle": "よりぬいミニvol.1（咲季・手毬・ことね）",
+      "goods": [
+        "zuta-plush-de64944698f3"
+      ],
+      "sourceSearchLinks": 12,
+      "images": 1
+    },
+    {
+      "index": 59,
+      "sourceTitle": "カップケーキたぴぬい vol.1",
+      "goods": [
+        "zuta-plush-d6298341830b"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 60,
+      "sourceTitle": "カップケーキたぴぬい vol.2",
+      "goods": [
+        "zuta-plush-d6298341830b"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 61,
+      "sourceTitle": "いっしょに暮らすぬい",
+      "goods": [
+        "zuta-plush-2e022919fce1"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 2
+    },
+    {
+      "index": 62,
+      "sourceTitle": "Chibiぬいおすわりマスコットvol.2",
+      "goods": [
+        "zuta-db-553",
+        "zuta-db-554",
+        "zuta-db-555",
+        "zuta-db-556",
+        "zuta-db-557",
+        "zuta-db-558",
+        "zuta-db-559",
+        "zuta-db-560",
+        "zuta-db-561",
+        "zuta-db-562",
+        "zuta-db-563",
+        "zuta-db-564",
+        "zuta-db-565"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 1
+    },
+    {
+      "index": 63,
+      "sourceTitle": "ぬいピン 学園アイドルマスター vol.1",
+      "goods": [
+        "zuta-plush-ac4fb2b43f49"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 64,
+      "sourceTitle": "ぬいリング",
+      "goods": [
+        "zuta-plush-7f418f46bcfc"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 13
+    },
+    {
+      "index": 65,
+      "sourceTitle": "くりぱん ぬいぐるみ",
+      "goods": [
+        "zuta-plush-c9915a4e73e9"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 3
+    },
+    {
+      "index": 66,
+      "sourceTitle": "Chibiぬいおすわりマスコット",
+      "goods": [
+        "zuta-plush-d79232d8898f"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 2
+    },
+    {
+      "index": 67,
+      "sourceTitle": "Palude ふかもこぐるみ（美鈴）",
+      "goods": [
+        "zuta-db-355"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 68,
+      "sourceTitle": "ぬいピン 学園アイドルマスター vol.2",
+      "goods": [
+        "zuta-plush-card-e82b4801569e"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 69,
+      "sourceTitle": "標 ぬいポーチ",
+      "goods": [
+        "zuta-plush-5f70f00a5bc9"
+      ],
+      "sourceSearchLinks": 52,
+      "images": 13
+    },
+    {
+      "index": 70,
+      "sourceTitle": "Palude ハリネズミのふかもこぐるみポーチ",
+      "goods": [
+        "zuta-db-385"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 71,
+      "sourceTitle": "Palude 動く!はつみちゃんマスコット（非公認）",
+      "goods": [
+        "zuta-db-384"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 72,
+      "sourceTitle": "月村 手毬のハリネズミゆたんぽ",
+      "goods": [
+        "zuta-db-394"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 73,
+      "sourceTitle": "藤田ことねのピッグドリーム貯金箱ぬいぐるみ",
+      "goods": [
+        "zuta-db-386"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    },
+    {
+      "index": 74,
+      "sourceTitle": "藤田ことねのピッグドリーム貯金箱ぬいぐるみキーチェーン",
+      "goods": [
+        "zuta-db-387"
+      ],
+      "sourceSearchLinks": 0,
+      "images": 1
+    }
+  ],
+  "sourceErrors": [],
+  "limitations": "角色搜索页不代表单品、库存或报价；新整理的合并卡片可能涵盖多个批次，保留原商品日期价格，来源日期仅追加观察。历史游戏文章嵌入摘要变化未作为周边更新。"
+}
