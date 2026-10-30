@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-30T09:00:47+09:00",
+  "newProducts": 0,
+  "changedProducts": 1,
+  "changedProductIds": [
+    "gakumas-18"
+  ],
+  "newChannelLinks": 2,
+  "addedLinks": [
+    {
+      "name": "AnimeStore",
+      "url": "https://anime-store.jp/products/6977787820166",
+      "originalUrl": "https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3738804&pid=892706542&vc_url=https%3A%2F%2Fanime-store.jp%2Fproducts%2F6977787820166",
+      "linkType": "商品页（来源同款手办图示对应；店内规格未独立核对）",
+      "sourceNote": "2026-10-30来源汇总新增渠道，标价22,000円并称免运费；适用地区、条件、实际结算价与库存请在商店确认。"
+    },
+    {
+      "name": "Colleize",
+      "url": "https://colleize.com/lineup/400/434633",
+      "originalUrl": "https://px.a8.net/svt/ejp?a8mat=44Z73G+2J3CC2+4RNG+BW0YB&a8ejpredirect=https%3A%2F%2Fcolleize.com%2Flineup%2F400%2F434633",
+      "linkType": "商品页（来源同款手办图示对应；店内规格未独立核对）",
+      "sourceNote": "2026-10-30来源汇总新增渠道，标价22,000円并称免运费；适用地区、条件、实际结算价与库存请在商店确认。"
+    }
+  ],
+  "newArticles": [
+    "https://zutapoke.com/14805/"
+  ],
+  "changedArticles": [
+    "https://zutapoke.com/27755/"
+  ],
+  "newEvents": [
+    "gk-fan-callguide-hps-shirube-202610"
+  ],
+  "sourceErrors": [],
+  "ignoredChanges": "其余18篇仅乐天促销横幅文字变化，商品价格、月份、链接及图片未变化。",
+  "limitations": "两条商品链接按来源图示对应；店内价格、运费条件与库存未独立确认。粉丝企划的日期、地址及协赞状态待核，未当作官方活动。"
+}
