@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-11-02T08:59:39+09:00",
+  "newProducts": 13,
+  "changedProducts": 9,
+  "newProductIds": [
+    "zuta-fumo2-fumocollection-mouse-gim2",
+    "zuta-fumo2-fumocollection-acrylicstand-gim2",
+    "zuta-fumo2-fumocollection-acrylicblock-gim2",
+    "zuta-fumo2-fumocollection-cableclip-gim2",
+    "zuta-fumo2-fumocollection-mousepad-gim2-cxl",
+    "zuta-fumo2-fumocollection-mousepad-gim2-2xl",
+    "zuta-starlight-251553-i_sd_07-00-00",
+    "zuta-starlight-251553-i_sd_08-00-00",
+    "zuta-starlight-251553-i_sd_09-00-00",
+    "zuta-starlight-251562-i_sd_07-00-00",
+    "zuta-starlight-251562-i_sd_08-00-00",
+    "zuta-starlight-251562-i_sd_09-00-00",
+    "zuta-wafer4-4570117932168"
+  ],
+  "changedProductIds": [
+    "zuta-article-28827-book8-animate-3619077",
+    "zuta-article-28827-book8-animate-3619076",
+    "zuta-article-28827-book8-animate-3618752",
+    "zuta-article-28827-book8-animate-3586068",
+    "zuta-article-28827-book8-animate-3619079",
+    "zuta-article-28827-book8-animate-3619078",
+    "zuta-article-28827-book8-animate-3618753",
+    "zuta-article-28827-book8-animate-3587696",
+    "zuta-plush-2e022919fce1"
+  ],
+  "newEvents": 2,
+  "newArticles": 2,
+  "changedArticles": 2,
+  "newCharacterSearchLinks": 52,
+  "sourceErrors": [],
+  "sourceLimitations": [
+    "ふもコレ理线夹页HTTP 429；尊重限流，未核实该页规格和受理状态。",
+    "来源13608首次IncompleteRead，独立重取完整193292字节成功。",
+    "批量文章变化主要是推荐广告替换；未复制广告中互相矛盾的折扣或新增重复商品。"
+  ],
+  "officialVerified": "ふもコレ5款、Starlight Dining 6单品、Bandai威化饼4。"
+}
