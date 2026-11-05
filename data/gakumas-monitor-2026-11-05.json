@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-05T09:03:01+09:00",
+  "newProducts": 1,
+  "newProductIds": [
+    "zuta-lawson-mini-karage-202611"
+  ],
+  "changedProducts": 9,
+  "changedProductIds": [
+    "zuta-starlight-251553-i_sd_07-00-00",
+    "zuta-starlight-251553-i_sd_08-00-00",
+    "zuta-starlight-251553-i_sd_09-00-00",
+    "zuta-starlight-251562-i_sd_07-00-00",
+    "zuta-starlight-251562-i_sd_08-00-00",
+    "zuta-starlight-251562-i_sd_09-00-00",
+    "zuta-fumo2-fumocollection-mouse-gim2",
+    "zuta-fumo2-fumocollection-mousepad-gim2-cxl",
+    "zuta-fumo2-fumocollection-mousepad-gim2-2xl"
+  ],
+  "newChannelLinks": 9,
+  "addedLinks": [
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638892",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638893",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638894",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638901",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638902",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3638903",
+    "https://www.suruga-ya.jp/product/detail/145300890",
+    "https://www.suruga-ya.jp/product/detail/145300892",
+    "https://www.suruga-ya.jp/product/detail/145300891"
+  ],
+  "newArticles": [
+    "https://zutapoke.com/29101/"
+  ],
+  "changedArticles": [
+    "https://zutapoke.com/14433/",
+    "https://zutapoke.com/28932/"
+  ],
+  "newEvents": [
+    "gk-lawson-mini-order-202611"
+  ],
+  "sourceErrors": [],
+  "limitations": [
+    "Animate六页返回无商品标题的空壳内容，链接按来源角色按钮对应，未声称独立核实店内规格或库存。",
+    "骏河屋按来源同款图片对应，店内条件未独立核实。",
+    "其余文章变化为乐天促销横幅、推荐摘要或排版，未当作商品价格更新。"
+  ],
+  "officialVerification": {
+    "url": "https://www.lawson.co.jp/campaign/lop_gakuen_idolmaster_2611_goods/",
+    "images": [
+      "https://www.lawson.co.jp/campaign/lop_gakuen_idolmaster_2611_goods/img/03.png",
+      "https://www.lawson.co.jp/campaign/lop_gakuen_idolmaster_2611_goods/img/block_img01.png"
+    ],
+    "facts": [
+      "全13种；各2,420円；约H130mm；聚酯纤维",
+      "2026-11-10 10:00至2027-01-12 23:30预约；2027-06-17交付"
+    ]
+  }
+}

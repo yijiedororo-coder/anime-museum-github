@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-04",
+  "checkedAt": "2026-11-05",
   "databaseRows": 5271,
   "databaseProducts": 5183,
   "mergedDuplicateRows": 88,
   "archivePages": 16,
-  "articlesRead": 290,
+  "articlesRead": 291,
   "plushSupplement": 69,
-  "products": 5561,
+  "products": 5562,
   "categories": {
     "立牌": 1119,
     "徽章": 952,
@@ -30,17 +30,18 @@
     "车票": 1,
     "卡片": 1,
     "纸品": 1,
-    "本册": 1
+    "本册": 1,
+    "毛绒 / 娃娃": 1
   },
   "failures": [],
   "imagePolicy": "新增数据库图片引用来源公开图片地址，旧19条仍为本地图片。",
   "latestUpdate": {
-    "checkedAt": "2026-11-04",
-    "newProducts": 0,
-    "changedProducts": 2,
-    "newChannelLinks": 2,
+    "checkedAt": "2026-11-05",
+    "newProducts": 1,
+    "changedProducts": 9,
+    "newChannelLinks": 9,
     "newArticles": 1,
     "changedArticles": 2,
-    "newEvents": 0
+    "newEvents": 1
   }
 }
