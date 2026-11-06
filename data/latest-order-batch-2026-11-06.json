@@ -1,0 +1,2207 @@
+{
+  "checkedAt": "2026-11-06",
+  "batch": "2026-11-06-latest-order-5",
+  "scope": "作品清单「最新」顺序的前5部。只采用无需登录的公开页面。不是这5部的全市场收集，也不是后续25部已调查。",
+  "works": [
+    {
+      "id": "ole-73acd87f49ee",
+      "name": "大叔喜欢可爱小玩意",
+      "originalTitle": "おじさんはカワイイものがお好き。",
+      "products": 6,
+      "limits": "登记动画官网播出信息，以及SHIBUYA TSUTAYA 6楼IP书店2026年10月30日至11月15日快闪页上写明价格的6条商品或系列。读卖电视台商品页只列出店铺，没有单品和价格，所以没有编成商品。官网导航未见影像商品页。不是全市场收集。",
+      "sources": [
+        {
+          "url": "https://ojikawa.com/",
+          "checkedAtJST": "2026-11-06T13:57:06.007751+09:00",
+          "sha256": "1122628bb4a56c7f2b2acfde66a307ef001c3872e3c4830277b5d24c80a092c6",
+          "bytes": 79355
+        },
+        {
+          "url": "https://ojikawa.com/onair/",
+          "checkedAtJST": "2026-11-06T13:58:14.627935+09:00",
+          "sha256": "00b12c730708ed8fad3923f068545a334de3de915070b0a9ef7e54ac9333b720",
+          "bytes": 27217
+        },
+        {
+          "url": "https://www.ytv.co.jp/ojikawa/goods/",
+          "checkedAtJST": "2026-11-06T13:57:06.549514+09:00",
+          "sha256": "574ec19a30025d4e382f51a01a96b780fa05624206c0eb88cb5b8025ee45ec57",
+          "bytes": 6561
+        },
+        {
+          "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "checkedAtJST": "2026-11-06T13:57:07.697764+09:00",
+          "sha256": "f81323561b92bd2eb47746799d534cbefe640dd76a9d57e71cd40648f63ac49b",
+          "bytes": 91682
+        },
+        {
+          "url": "https://news.fod.fujitv.co.jp/article/14476",
+          "checkedAtJST": "2026-11-06T13:57:08.832967+09:00",
+          "sha256": "9bc88fda0698f545c953a0de339adcec99ca896f34080ac6b21bac9c04ced380",
+          "bytes": 74504
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-761c3ff49e483811be",
+          "name": "トレーディングミニアクリルブロック 全5種",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎＆フレンズ / 见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "880円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "SHIBUYA TSUTAYA先行销售",
+            "全5种，页面未拆出单款名称"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-2228912ef2b57def9b",
+          "name": "ダイカットアクリルキーホルダー 全5種",
+          "kind": "merch",
+          "category": "挂件",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎＆フレンズ / 见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "880円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "全5种，页面未拆出单款名称"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-94057146b5732f4885",
+          "name": "クリアファイル 全2種",
+          "kind": "merch",
+          "category": "卡片 / 文具",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎＆フレンズ / 见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "660円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "全2種，页面未拆出单款名称"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-c79904ee853aae070b",
+          "name": "おでかけぬいぐるみポシェット",
+          "kind": "merch",
+          "category": "生活 / 收藏",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎＆フレンズ / 见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "3,300円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）；11月上旬入荷予定",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "页面写11月上旬入荷予定"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-017d92d6670e49d5be",
+          "name": "パグ太郎ぬいぐるみ",
+          "kind": "merch",
+          "category": "娃娃 / 毛绒",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "4,950円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-9fe92ca20155cde576",
+          "name": "パグ太郎 もっちりマスコット",
+          "kind": "merch",
+          "category": "娃娃 / 毛绒",
+          "originalType": "SHIBUYA TSUTAYA POP UP SHOP",
+          "series": "SHIBUYA TSUTAYA POP UP SHOP",
+          "characters": "パグ太郎",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "SHIBUYA TSUTAYA POP UP SHOP",
+          "acquisitionType": "零售周边",
+          "price": "1,540円（税込）",
+          "releaseDate": "会期 2026年10月30日（金）～11月15日（日）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+          "sourceName": "SHIBUYA TSUTAYA · 公开活动页",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "SHIBUYA TSUTAYA 活动页",
+              "url": "https://shibuyatsutaya.tsite.jp/article/2844.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "TV动画官网",
+              "url": "https://ojikawa.com/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-b5f3972beab5",
+      "name": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
+      "originalTitle": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+      "products": 10,
+      "limits": "登记官网Blu-ray与DVD各3卷、KADOKAWA商店列出的对应商品入口、20周年亚克力立牌，以及音乐页上的OP配信和ED所收录专辑两种形态。小说与漫画单行本未纳入。",
+      "sources": [
+        {
+          "url": "https://yowaki-max-anime.com/",
+          "checkedAtJST": "2026-11-06T13:57:08.918563+09:00",
+          "sha256": "4f25261d378eacbd42ccbc555a56ef0c5ac86bfb85c032a7cf0f301c96c14b54",
+          "bytes": 36485
+        },
+        {
+          "url": "https://yowaki-max-anime.com/onair/",
+          "checkedAtJST": "2026-11-06T13:57:09.524110+09:00",
+          "sha256": "c0ae4be93f329714a43ea472c0721414ae789523cad0fa7b3552fa1c58b56c16",
+          "bytes": 21955
+        },
+        {
+          "url": "https://yowaki-max-anime.com/bddvd/",
+          "checkedAtJST": "2026-11-06T13:57:10.217016+09:00",
+          "sha256": "9e957fa282a17a5056c38bfc99b19d857f4636c030f252d31016d01fd0348b6a",
+          "bytes": 29150
+        },
+        {
+          "url": "https://yowaki-max-anime.com/music/",
+          "checkedAtJST": "2026-11-06T13:58:13.731520+09:00",
+          "sha256": "843ebc3039cfffda79dc5971b030a3a722856fce49c72e53768348f19f6a48ef",
+          "bytes": 18432
+        },
+        {
+          "url": "https://store.kadokawa.co.jp/shop/g/g302607005930/",
+          "checkedAtJST": "2026-11-06T13:57:11.228429+09:00",
+          "sha256": "b5d1a69f01312ae237c98d4713f6b5d9660ba9f571753da4caf02a628cd87574",
+          "bytes": 149624
+        },
+        {
+          "url": "https://store.kadokawa.co.jp/shop/g/g302608002673/",
+          "checkedAtJST": "2026-11-06T13:57:12.202071+09:00",
+          "sha256": "5c79c54a1a4d11d66f286227a6d67bc5b16f0dba9bc32c6b74c603a0c4cb41a5",
+          "bytes": 129746
+        },
+        {
+          "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+          "checkedAtJST": "2026-11-06T13:58:15.278950+09:00",
+          "sha256": "ad626e7fb61c353ccf4c94c6835e052ed6262f998b40e6a0053cb8b1eba997b5",
+          "bytes": 130322
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-5b2040506ede240e21",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第1巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "14,300円（税込）",
+          "releaseDate": "2027年1月27日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMXZ-20004",
+            "収録：第1话～第4话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005930/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-ff2e911f172ad208e9",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第1巻 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "12,100円（税込）",
+          "releaseDate": "2027年1月27日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMBZ-20001",
+            "収録：第1话～第4话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005933/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-a87657068ce3fa9e5e",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第2巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "14,300円（税込）",
+          "releaseDate": "2027年2月26日(金)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMXZ-20005",
+            "収録：第5话～第8话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005931/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-a6a90e525a61a1955d",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第2巻 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "12,100円（税込）",
+          "releaseDate": "2027年2月26日(金)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMBZ-20002",
+            "収録：第5话～第8话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005934/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-4530f5219ada0396a1",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第3巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "14,300円（税込）",
+          "releaseDate": "2027年3月26日(金)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMXZ-20006",
+            "収録：第9话～第12话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005932/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-aa8c3ae547d127d678",
+          "name": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった 第3巻 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ピア・ロックウェル / ルーファス・スタン",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "12,100円（税込）",
+          "releaseDate": "2027年3月26日(金)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ZMBZ-20003",
+            "収録：第9话～第12话",
+            "初回生产特典：特制外盒、动画绘制デジパック、特制小册子"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://yowaki-max-anime.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302607005935/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "KADOKAWA映像商品目录",
+              "url": "https://store.kadokawa.co.jp/shop/e/ekanm0140/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-5773ae4c5bfe832bd0",
+          "name": "ビーズログ文庫創刊20周年フェア アクリルフィギュア 『弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった』ピア",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "ビーズログ文庫",
+          "series": "ビーズログ文庫",
+          "characters": "ピア・ロックウェル",
+          "manufacturer": "KADOKAWA",
+          "productBrand": "ビーズログ文庫",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "1,870円（价格节点未写税込）",
+          "releaseDate": "2027年2月発売予定",
+          "size": "プレート状態：約 縦150×横100mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。 价格按页面可见文字保留为1,870円；该价格节点没有写出税込。",
+          "specifications": [
+            "素材：アクリル树脂",
+            "生产国：日本",
+            "预约至2026年11月17日(火) 23:59",
+            "product:price:amount 为 1870 JPY"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://store.kadokawa.co.jp/shop/g/g302608002673/",
+          "sourceName": "KADOKAWA官方商店",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "KADOKAWA官方商店",
+              "url": "https://store.kadokawa.co.jp/shop/g/g302608002673/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-1ccba94fffd7dfdae0",
+          "name": "鈴木このみ「強気MAX宣言」オープニングテーマ（配信）",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画主题歌",
+          "series": "TV动画主题歌",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "官方音乐页未标注厂商",
+          "productBrand": "TV动画主题歌",
+          "acquisitionType": "配信",
+          "price": "来源未标注实体价格",
+          "releaseDate": "2026年10月5日（月）0:00より各种音乐服务配信",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "作词：烏屋茶房",
+            "作曲：金崎真士",
+            "编曲：鎌田瑞輝"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://yowaki-max-anime.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-ec37efea7d47a48a18",
+          "name": "伊藤美来 5th Album「39rpm」限定盤（CD+エムカード）",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画主题歌所收录专辑",
+          "series": "TV动画主题歌所收录专辑",
+          "characters": "ピア・ロックウェル",
+          "manufacturer": "官方音乐页未标注厂商",
+          "productBrand": "TV动画主题歌所收录专辑",
+          "acquisitionType": "零售周边",
+          "price": "￥6,050（税込）",
+          "releaseDate": "2026年10月7日（水）発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "收录ED「夜明けまでに」",
+            "全11曲",
+            "页面未标注品番与唱片公司"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://yowaki-max-anime.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-6b4c3afaa02b27f479",
+          "name": "伊藤美来 5th Album「39rpm」通常盤（CD）",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画主题歌所收录专辑",
+          "series": "TV动画主题歌所收录专辑",
+          "characters": "ピア・ロックウェル",
+          "manufacturer": "官方音乐页未标注厂商",
+          "productBrand": "TV动画主题歌所收录专辑",
+          "acquisitionType": "零售周边",
+          "price": "￥4,400（税込）",
+          "releaseDate": "2026年10月7日（水）発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "收录ED「夜明けまでに」",
+            "全11曲",
+            "页面未标注品番与唱片公司"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://yowaki-max-anime.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://yowaki-max-anime.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-cb17d1062ff3",
+      "name": "学生会也有洞！",
+      "originalTitle": "生徒会にも穴はある！",
+      "products": 18,
+      "limits": "按官网Blu-ray＆DVD第1至第6卷页面，分别登记特装版Blu-ray、完全生产限定版Blu-ray和DVD。第6卷抱枕角色保留页面原文问号。Medicos的唐吉诃德活动页没有单品名称和价格，没有编成商品。",
+      "sources": [
+        {
+          "url": "https://nama-anaru.com/",
+          "checkedAtJST": "2026-11-06T13:57:13.006833+09:00",
+          "sha256": "6bfe7a2cfae87968065d2efafd187b915476928099b062cef0f510c358b15cdc",
+          "bytes": 68684
+        },
+        {
+          "url": "https://nama-anaru.com/onair/",
+          "checkedAtJST": "2026-11-06T13:58:11.328296+09:00",
+          "sha256": "f5056bec0e476ebeee90216e12c7930d0c46b90e817a330a86e33df72edc16ad",
+          "bytes": 51261
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/",
+          "checkedAtJST": "2026-11-06T13:58:10.505888+09:00",
+          "sha256": "c8143a1d53d0230156556dd3d72d01726fb9d3516a828fd29e0da0339eca12d7",
+          "bytes": 24219
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/?pk=02",
+          "checkedAtJST": "2026-11-06T13:58:28.323708+09:00",
+          "sha256": "9495ce072d5695e06274c62e6a11bc0c1e37b353941a0c6eb6e35641d7042c0d",
+          "bytes": 22765
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/?pk=03",
+          "checkedAtJST": "2026-11-06T13:58:28.987636+09:00",
+          "sha256": "34110e0f1f7f73e601013b70103eb2e31cdfe62cbbefeb654d0e384e7b34a219",
+          "bytes": 22233
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/?pk=04",
+          "checkedAtJST": "2026-11-06T13:58:29.636895+09:00",
+          "sha256": "0bdd4879b3c89565cae57c99cf74fb82ed7820ea44f2998e3b6e462f0df8befe",
+          "bytes": 22282
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/?pk=05",
+          "checkedAtJST": "2026-11-06T13:58:29.869035+09:00",
+          "sha256": "1aaf03e67120dc3fda5d89cd9ba20fcf7ff9661183cfa3f560b00828a4b2e683",
+          "bytes": 21592
+        },
+        {
+          "url": "https://nama-anaru.com/bddvd/?pk=06",
+          "checkedAtJST": "2026-11-06T13:58:30.088313+09:00",
+          "sha256": "6b651fa7cfa216f06be8cb256f16efc4f6d9b97a4656da696b50f71c7c627c05",
+          "bytes": 21494
+        },
+        {
+          "url": "https://news.aniplex.co.jp/detail.html?id=71254",
+          "checkedAtJST": "2026-11-06T13:57:13.743167+09:00",
+          "sha256": "884d322732947917bbc4550940f02d4f7496225c0c35c990e1c460d5e210b227",
+          "bytes": 26011
+        },
+        {
+          "url": "https://www.medicos-e.net/newsdetail/seitokai/",
+          "checkedAtJST": "2026-11-06T13:57:24.413125+09:00",
+          "sha256": "8e894b3bb77400c8970a5c5f7597d6af5516f921f7f672e27baa648eaabdfadf",
+          "bytes": 38967
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-81c8bb043c065ebbcd",
+          "name": "生徒会にも穴はある！ 1 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "古都吹寿子",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2026年12月23日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18531〜18533",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第1话～第2话（2话）",
+            "抱き枕カバー：古都吹寿子",
+            "生地：2wayトリコット",
+            "页面建议预约期限：页面写【10月18日(日)まで】，未写年份"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ANIPLEX NEWS BOX",
+              "url": "https://news.aniplex.co.jp/detail.html?id=71254",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-8fff452a8f8b081b8d",
+          "name": "生徒会にも穴はある！ 1 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2026年12月23日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18534〜18535",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第1话～第2话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-f7271a00a0f442103b",
+          "name": "生徒会にも穴はある！ 1 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2026年12月23日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18534〜18535",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第1话～第2话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-2589893c1728a19e99",
+          "name": "生徒会にも穴はある！ 2 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "陸奥こまろ",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2027年1月27日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18536〜18538",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第3话～第4话（2话）",
+            "抱き枕カバー：陸奥こまろ",
+            "生地：2wayトリコット",
+            "页面建议预约期限：2026年11月8日(日)"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=02",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=02",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-ceabd9dc66c47a1328",
+          "name": "生徒会にも穴はある！ 2 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2027年1月27日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18539〜18540",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第3话～第4话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=02",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=02",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-53a1abb724c8c65bdf",
+          "name": "生徒会にも穴はある！ 2 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2027年1月27日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18539〜18540",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第3话～第4话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=02",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=02",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-36e01dfa039f15b26d",
+          "name": "生徒会にも穴はある！ 3 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "尾鳥たん",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2027年2月24日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18541〜18543",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第5话～第6话（2话）",
+            "抱き枕カバー：尾鳥たん",
+            "生地：2wayトリコット",
+            "页面建议预约期限：2026年12月6日(日)"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=03",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=03",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-6a901a6dc918b1257a",
+          "name": "生徒会にも穴はある！ 3 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2027年2月24日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18544〜18545",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第5话～第6话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=03",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=03",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-a3baff9aff969d52b4",
+          "name": "生徒会にも穴はある！ 3 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2027年2月24日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18544〜18545",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第5话～第6话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=03",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=03",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-0aa1ab92f18872e115",
+          "name": "生徒会にも穴はある！ 4 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "照井有栖",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2027年3月31日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18546〜18548",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第7话～第8话（2话）",
+            "抱き枕カバー：照井有栖",
+            "生地：2wayトリコット",
+            "页面建议预约期限：2026年12月20日(日)"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=04",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=04",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-06c5fa87b97ab4d8fe",
+          "name": "生徒会にも穴はある！ 4 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2027年3月31日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18549〜18550",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第7话～第8话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=04",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=04",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-096b8afe2429b207a2",
+          "name": "生徒会にも穴はある！ 4 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2027年3月31日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18549〜18550",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第7话～第8话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=04",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=04",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-0ed73575f1b90ebb88",
+          "name": "生徒会にも穴はある！ 5 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "平塚敏深",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2027年4月28日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18551〜18553",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第9话～第10话（2话）",
+            "抱き枕カバー：平塚敏深",
+            "生地：2wayトリコット",
+            "页面建议预约期限：2027年1月24日(日)"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=05",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=05",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-68fd0901c7fa36f5dc",
+          "name": "生徒会にも穴はある！ 5 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2027年4月28日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18554〜18555",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第9话～第10话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=05",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=05",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-a972f6d43ed61ff0a4",
+          "name": "生徒会にも穴はある！ 5 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2027年4月28日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18554〜18555",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第9话～第10话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=05",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=05",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-bec5fefd0f85bf61e5",
+          "name": "生徒会にも穴はある！ 6 抱き枕カバー付き特装版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "页面原文「？？？」",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥20,900（税込）",
+          "releaseDate": "2027年6月30日(水)発売",
+          "size": "抱き枕カバー 約H1,600mm×W500mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18556〜18558",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第11话～第12话（2话）",
+            "抱き枕カバー：页面原文「？？？」",
+            "生地：2wayトリコット",
+            "页面建议预约期限：2027年4月18日(日)"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=06",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=06",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-2e7f4492ee11155c45",
+          "name": "生徒会にも穴はある！ 6 完全生産限定版 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥7,700（税込）",
+          "releaseDate": "2027年6月30日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18559〜18560",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第11话～第12话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=06",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=06",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-afd66c84d126e1b6d5",
+          "name": "生徒会にも穴はある！ 6 完全生産限定版 DVD",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "アニプレックス",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥6,600（税込）",
+          "releaseDate": "2027年6月30日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18559〜18560",
+            "2枚组（BD/DVD＋CD）",
+            "收录TV放送版与规制解除版",
+            "収録：第11话～第12话（2话）"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://nama-anaru.com/bddvd/?pk=06",
+          "sourceName": "TV动画官网 · Blu-ray＆DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray＆DVD",
+              "url": "https://nama-anaru.com/bddvd/?pk=06",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-91ad750080fb",
+      "name": "青之箱 第二季",
+      "originalTitle": "アオのハコ Season2",
+      "products": 5,
+      "limits": "只登记标明Season2的Blu-ray Vol.1至Vol.3，以及トムスショップ两件预告视觉商品。第一季影像、法人店铺赠品和SHIBUYA109快闪里未标单价的新品没有拆成商品。官网商品页没有写出发行公司。",
+      "sources": [
+        {
+          "url": "https://aonohako-anime.com/",
+          "checkedAtJST": "2026-11-06T13:57:15.144060+09:00",
+          "sha256": "680dadc548398180ca8212ff11eccae51840b3d7de6dd44eb334c5a0091f7e04",
+          "bytes": 74385
+        },
+        {
+          "url": "https://aonohako-anime.com/bddvd/s2-vol1.html",
+          "checkedAtJST": "2026-11-06T13:57:15.868739+09:00",
+          "sha256": "8e34d7393fa5f65b63d297a456f9a2998adf138964d0cdb7f09064fcd36071c8",
+          "bytes": 6418
+        },
+        {
+          "url": "https://aonohako-anime.com/bddvd/s2-vol2.html",
+          "checkedAtJST": "2026-11-06T13:57:16.582236+09:00",
+          "sha256": "2a39a274bb1179240387da52c02ddbe92e821be63ae1489164c06cb08f767dbc",
+          "bytes": 6061
+        },
+        {
+          "url": "https://aonohako-anime.com/bddvd/s2-vol3.html",
+          "checkedAtJST": "2026-11-06T13:57:17.159622+09:00",
+          "sha256": "825fd4718056e9612edfcebae142cda53bfb9d3ebca1c8522c5c6b372c95abe6",
+          "bytes": 6064
+        },
+        {
+          "url": "https://aonohako-anime.com/bddvd/s2-tokuten.html",
+          "checkedAtJST": "2026-11-06T13:57:17.746076+09:00",
+          "sha256": "fb45a1a2c1d43ada371ec62d463835707d29e6b43a6872b9113acdc08731035f",
+          "bytes": 11795
+        },
+        {
+          "url": "https://www.tmsshop.jp/dp/aonohako_season2/",
+          "checkedAtJST": "2026-11-06T13:57:18.664313+09:00",
+          "sha256": "fe11ceee1feb22f5db67ad52ddd13338fe90381f06ae817e5dd8cd3ab4b8d946",
+          "bytes": 17565
+        },
+        {
+          "url": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0097",
+          "checkedAtJST": "2026-11-06T13:58:12.182634+09:00",
+          "sha256": "9d7c28d5b367bc9826af099f7afc5763f419349707b05703956000f46e0c2b82",
+          "bytes": 32364
+        },
+        {
+          "url": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0098",
+          "checkedAtJST": "2026-11-06T13:58:13.139725+09:00",
+          "sha256": "0b17bef031132f8934835d196452ab0551eb0b3b2496928e46b3f1194f9595c6",
+          "bytes": 32139
+        },
+        {
+          "url": "https://www.tms-e.co.jp/release/event/entry-26246.html",
+          "checkedAtJST": "2026-11-06T13:57:19.760218+09:00",
+          "sha256": "5233f6d3f8a41272be6bb813b40e7bbc8398389f061c11500014e95124618a20",
+          "bytes": 50834
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-c877f9b269c3e2e34d",
+          "name": "TVアニメ「アオのハコ」Season2 Blu-ray Vol.1 初回生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Season2 Blu-ray",
+          "series": "TV动画 Season2 Blu-ray",
+          "characters": "猪股大喜 / 鹿野千夏",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画 Season2 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "11,000円（税抜价格 10,000円）",
+          "releaseDate": "2027年1月20日（水）発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：TBR37019D",
+            "POS：4988104188199",
+            "2层（BD50G）／1080p／线性PCM 2.0ch",
+            "字幕：无障碍日语字幕",
+            "约94分（#1～4）＋映像特典",
+            "DISC 1枚",
+            "音频特典：第29话（2期第4话）「好きは最強の感情」",
+            "出演：上田麗奈（鹿野千夏役）、青山吉能（木戸夢佳役）",
+            "映像特典含无字幕OP/ED、PV集、ワールドプレミア映像"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://aonohako-anime.com/bddvd/s2-vol1.html",
+          "sourceName": "TV动画官网 · Season2 Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Season2 Blu-ray",
+              "url": "https://aonohako-anime.com/bddvd/s2-vol1.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "Season2法人特典说明",
+              "url": "https://aonohako-anime.com/bddvd/s2-tokuten.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b730e336ae0808f07a",
+          "name": "TVアニメ「アオのハコ」Season2 Blu-ray Vol.2 初回生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Season2 Blu-ray",
+          "series": "TV动画 Season2 Blu-ray",
+          "characters": "猪股大喜 / 鹿野千夏",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画 Season2 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "11,000円（税抜价格 10,000円）",
+          "releaseDate": "2027年2月17日（水）発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：TBR37020D",
+            "POS：4988104188205",
+            "2层（BD50G）／1080p／线性PCM 2.0ch",
+            "字幕：无障碍日语字幕",
+            "约94分（#5～8）",
+            "DISC 1枚",
+            "音频特典：キャストオーディオコメンタリー"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://aonohako-anime.com/bddvd/s2-vol2.html",
+          "sourceName": "TV动画官网 · Season2 Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Season2 Blu-ray",
+              "url": "https://aonohako-anime.com/bddvd/s2-vol2.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "Season2法人特典说明",
+              "url": "https://aonohako-anime.com/bddvd/s2-tokuten.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b29a6ec21caff7bd0f",
+          "name": "TVアニメ「アオのハコ」Season2 Blu-ray Vol.3 初回生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Season2 Blu-ray",
+          "series": "TV动画 Season2 Blu-ray",
+          "characters": "猪股大喜 / 鹿野千夏",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画 Season2 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "11,000円（税抜价格 10,000円）",
+          "releaseDate": "2027年3月17日（水）発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：TBR37021D",
+            "POS：4988104188212",
+            "2层（BD50G）／1080p／线性PCM 2.0ch",
+            "字幕：无障碍日语字幕",
+            "约94分（#9～12）",
+            "DISC 1枚",
+            "音频特典：キャストオーディオコメンタリー"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://aonohako-anime.com/bddvd/s2-vol3.html",
+          "sourceName": "TV动画官网 · Season2 Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Season2 Blu-ray",
+              "url": "https://aonohako-anime.com/bddvd/s2-vol3.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "Season2法人特典说明",
+              "url": "https://aonohako-anime.com/bddvd/s2-tokuten.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-f0ddaf3fe4587d2af8",
+          "name": "Season2ティザービジュアル クリアファイル＆ブロマイドセット",
+          "kind": "merch",
+          "category": "卡片 / 文具",
+          "originalType": "トムスショップ",
+          "series": "トムスショップ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "トムス・エンタテインメント",
+          "productBrand": "トムスショップ",
+          "acquisitionType": "零售周边",
+          "price": "990円（税込）",
+          "releaseDate": "销售期间 2026年9月11日(金)12:00～",
+          "size": "クリアファイル A4／ブロマイド L版",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "素材：クリアファイル PP／ブロマイド 纸",
+            "原产国：日本",
+            "数量限定；页面写明库存显示不是实时"
+          ],
+          "image": "https://tmsshop.fs-storage.jp/fs2cabinet/aon/aonohako_0097/aonohako_0097-s-01-pl.jpg",
+          "images": [
+            "https://tmsshop.fs-storage.jp/fs2cabinet/aon/aonohako_0097/aonohako_0097-s-01-pl.jpg"
+          ],
+          "sourceUrl": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0097",
+          "sourceName": "トムスショップ",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "トムスショップ商品页",
+              "url": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0097",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "トムスショップ Season2特设",
+              "url": "https://www.tmsshop.jp/dp/aonohako_season2/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-bc5691f0fb7ee14294",
+          "name": "Season2ティザービジュアル ショーウィンドウ風アクリルスタンド",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "トムスショップ",
+          "series": "トムスショップ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "トムス・エンタテインメント",
+          "productBrand": "トムスショップ",
+          "acquisitionType": "零售周边",
+          "price": "2,200円（税込）",
+          "releaseDate": "销售期间 2026年9月11日(金)12:00～",
+          "size": "约W123×H210×D3mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "素材：亚克力",
+            "原产国：日本",
+            "实用新案登录第3251950号",
+            "数量限定；页面写明库存显示不是实时"
+          ],
+          "image": "https://tmsshop.fs-storage.jp/fs2cabinet/aon/aonohako_0098/aonohako_0098-s-01-pl.jpg",
+          "images": [
+            "https://tmsshop.fs-storage.jp/fs2cabinet/aon/aonohako_0098/aonohako_0098-s-01-pl.jpg"
+          ],
+          "sourceUrl": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0098",
+          "sourceName": "トムスショップ",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "トムスショップ商品页",
+              "url": "https://www.tmsshop.jp/fs/tmsshop/aonohako_0098",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            },
+            {
+              "name": "トムスショップ Season2特设",
+              "url": "https://www.tmsshop.jp/dp/aonohako_season2/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-861abb65641d",
+      "name": "青之芦苇 第二季",
+      "originalTitle": "アオアシ Season2",
+      "products": 9,
+      "limits": "按株式会社ブリッジ2026年10月22日新闻稿，登记已写明价格或赠品条件的系列行。39种没有拆成页面未列出的单款。商店HTML未包含SKU价格。其他厂商商品未在本批逐页核对。",
+      "sources": [
+        {
+          "url": "https://aoashi-pr.com/",
+          "checkedAtJST": "2026-11-06T13:57:20.893382+09:00",
+          "sha256": "9edb83789109de949bac475b3ca7e9dcbd373b50e3c469e49f33098a66bedc20",
+          "bytes": 90716
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "checkedAtJST": "2026-11-06T13:57:21.217679+09:00",
+          "sha256": "5608162692ea2a836bafec1b335ab4e00baaecf6f16d9eb56fd642b5c47eff1d",
+          "bytes": 266932
+        },
+        {
+          "url": "https://tomostore-online.com/shops/aoashi",
+          "checkedAtJST": "2026-11-06T13:57:23.036195+09:00",
+          "sha256": "e199e77481df99e9e29f78661ab9f819fd08178efcac3c4c3536565eaa7747fc",
+          "bytes": 550164
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-c81b13b9f5016aae9c",
+          "name": "アオアシ Season2 オリジナルTシャツ（全2種）",
+          "kind": "merch",
+          "category": "服饰",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各4,400円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "L／XL",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "动画主视觉，以及エスペリオン标志加アシト背号，两种",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-02a04ff3e64fdc18d3",
+          "name": "アオアシ Season2 ぬいぐるみキーホルダー（全2種）",
+          "kind": "merch",
+          "category": "挂件",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各2,200円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "本体約Ｈ800mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。 挂件尺寸保留新闻稿原文约Ｈ800mm。",
+          "specifications": [
+            "アシト与栗林",
+            "尺寸按新闻稿原文「本体約Ｈ800mm」保留，未改写成其他数值",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-a7c50ead581b753914",
+          "name": "アオアシ Season2 ハンドタオル（全4種）",
+          "kind": "merch",
+          "category": "生活 / 收藏",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各880円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "W200mm×H200mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "各选手背号",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-83a69689cb2253f540",
+          "name": "アオアシ Season2 刺繍ワッペン（全1種）",
+          "kind": "merch",
+          "category": "生活 / 收藏",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "1,320円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "W约70mm×H约70mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "エスペリオンユース标志",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-380703d316d32a802b",
+          "name": "アオアシ Season2 クリアファイル（全2種）",
+          "kind": "merch",
+          "category": "卡片 / 文具",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各550円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "W约220mm×H约313mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "主视觉与预告视觉",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-af9e8b28a8795215df",
+          "name": "アオアシ Season2 フライトタグ（全8種）",
+          "kind": "merch",
+          "category": "生活 / 收藏",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各770円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "W140mm×H30mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "选手名与背号",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-dfe9cffaac8c54a743",
+          "name": "アオアシ Season2 缶バッジ（全8種）",
+          "kind": "merch",
+          "category": "徽章",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各550円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "直径57mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-02e8e59202c7e87320",
+          "name": "アオアシ Season2 ステッカー（全8種）",
+          "kind": "merch",
+          "category": "生活 / 收藏",
+          "originalType": "ともすと受注生产",
+          "series": "ともすと受注生产",
+          "characters": "青井葦人 / 系列选手见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと受注生产",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "440円（税込）",
+          "releaseDate": "2026年10月23日～2026年11月24日受注",
+          "size": "W60mm×H70mm以内",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "价格原文没有写「各」",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。",
+            "另计发送手续费",
+            "新闻稿写共39种，本档按已标价的系列行登记，没有把未列名单款拆开"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b0cdd8f4fc533258f8",
+          "name": "アオアシ Season2 【特典】ポストカード（全4種）",
+          "kind": "merch",
+          "category": "卡片 / 文具",
+          "originalType": "ともすと购买特典",
+          "series": "ともすと购买特典",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "株式会社ブリッジ（ともすと）",
+          "productBrand": "ともすと购买特典",
+          "acquisitionType": "购买特典",
+          "price": "非单品标价；1会计满3,300円（税込）赠1枚",
+          "releaseDate": "2026年10月23日～2026年11月24日受注期间",
+          "size": "W100mm×H148mm",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "随机4种中的1枚",
+            "受注期间：正文写2026年10月23日（金）18时起，概要栏写2026年10月23日（金）10:00～2026年11月24日（火）23:59。两处并存，未改写。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+          "sourceName": "株式会社ブリッジ · 公开新闻稿",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "ブリッジ新闻稿",
+              "url": "https://prtimes.jp/main/html/rd/p/000000054.000157042.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "ともすと商店入口",
+              "url": "https://tomostore-online.com/shops/aoashi",
+              "linkType": "官方商店入口（页面脚本渲染，未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-5",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    }
+  ]
+}

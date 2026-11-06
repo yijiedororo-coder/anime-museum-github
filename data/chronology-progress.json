@@ -8648,36 +8648,36 @@
       "id": "ole-73acd87f49ee",
       "name": "大叔喜欢可爱小玩意",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第1批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-b5f3972beab5",
       "name": "弱气MAX的大小姐、居然接受了铁腕未婚夫的赌约",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第1批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-cb17d1062ff3",
       "name": "学生会也有洞！",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第1批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-91ad750080fb",
       "name": "青之箱 第二季",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第1批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-861abb65641d",
       "name": "青之芦苇 第二季",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第1批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-6b00dca43a78",
@@ -10065,5 +10065,18 @@
       "yearVerified": false,
       "stage": "待调查"
     }
-  ]
+  ],
+  "latestOrderBatch": {
+    "checkedAt": "2026-11-06",
+    "order": "作品清单「最新」",
+    "completedWorks": [
+      "ole-73acd87f49ee",
+      "ole-b5f3972beab5",
+      "ole-cb17d1062ff3",
+      "ole-91ad750080fb",
+      "ole-861abb65641d"
+    ],
+    "products": 48,
+    "note": "本批只处理最新顺序前5部。首轮按年份调查仍只有海贼王和学园默示录。"
+  }
 }
