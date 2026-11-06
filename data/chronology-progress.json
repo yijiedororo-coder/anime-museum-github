@@ -7353,8 +7353,8 @@
       "id": "ole-40a1811c91a8",
       "name": "异人旅馆",
       "catalogYear": "2025",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第2批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-6f007aa29db2",
@@ -8683,29 +8683,29 @@
       "id": "ole-6b00dca43a78",
       "name": "来自远方",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第2批已核查公开页面，未形成可入库商品"
     },
     {
       "id": "ole-1221f7d90dca",
       "name": "相反的你和我",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第2批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-49a13e022683",
       "name": "转生贵族凭鉴定技能扭转人生 第三季",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第2批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-8833513bff5a",
       "name": "一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去",
       "catalogYear": "2026",
-      "yearVerified": false,
-      "stage": "待调查"
+      "yearVerified": true,
+      "stage": "最新顺序第2批目录调查已入库，仍有待补来源"
     },
     {
       "id": "ole-227a3dd6adab",
@@ -10078,5 +10078,64 @@
     ],
     "products": 48,
     "note": "本批只处理最新顺序前5部。首轮按年份调查仍只有海贼王和学园默示录。"
+  },
+  "latestOrderBatch2": {
+    "checkedAt": "2026-11-06",
+    "order": "作品清单「最新」第6–10部",
+    "completedWorks": [
+      "ole-6b00dca43a78",
+      "ole-40a1811c91a8",
+      "ole-1221f7d90dca",
+      "ole-49a13e022683",
+      "ole-8833513bff5a"
+    ],
+    "products": 30,
+    "unlisted": [
+      {
+        "id": "ole-6b00dca43a78",
+        "name": "来自远方",
+        "originalTitle": "彼方から",
+        "reason": "核对动画官网首页、ON AIR、音乐页和新闻列表，以及官网链出的乐天特集、白泉社漫画页。音乐页只有OP「逃光行」、ED「光の側で」的曲名和创作信息，没有品番、价格和发售日。新闻列表的静态页面没有条目。乐天特集的静态页面没有单价商品。因此本批没有入库商品。",
+        "sources": [
+          {
+            "url": "https://kanatakara-anime.com/",
+            "checkedAtJST": "2026-11-06T15:11:43.044461+09:00",
+            "sha256": "90f926c02ccde42dabf0008de998fff9d759e883f6a32da99a3060cf109f6943",
+            "bytes": 24763
+          },
+          {
+            "url": "https://kanatakara-anime.com/onair/",
+            "checkedAtJST": "2026-11-06T15:11:44.446881+09:00",
+            "sha256": "df5c7a7499bfaa97c341c0e9905386240f29b25ced3f06c0da50107ad592a3d8",
+            "bytes": 22782
+          },
+          {
+            "url": "https://kanatakara-anime.com/music/",
+            "checkedAtJST": "2026-11-06T15:12:16.201905+09:00",
+            "sha256": "d37d2a93dff6a25507a0cf88cf76141597318f3ebd466161a21280fb50706b8f",
+            "bytes": 20425
+          },
+          {
+            "url": "https://www.kanatakara-anime.com/news/",
+            "checkedAtJST": "2026-11-06T15:11:45.415353+09:00",
+            "sha256": "6ec9d8d2bca2ac069012b11de920ec6f2a1aaa5f95f955e47ea3f41a4cf1a6c5",
+            "bytes": 13435
+          },
+          {
+            "url": "https://books.rakuten.co.jp/event/all/kanatakara-anime/?scid=we_rcc_anime_official",
+            "checkedAtJST": "2026-11-06T15:12:27.928844+09:00",
+            "sha256": "3aeed493c752f207ed746df20912b544ff9fb7f8d03c6d62dc747b151dd27d73",
+            "bytes": 61046
+          },
+          {
+            "url": "https://www.hakusensha.co.jp/comicslist/42543/",
+            "checkedAtJST": "2026-11-06T15:12:30.101696+09:00",
+            "sha256": "777e49fc25cfdf337b4e580951eec3f1c11f5b1f3aebae00b70fef81dc6a54ba",
+            "bytes": 149857
+          }
+        ]
+      }
+    ],
+    "note": "本批只处理最新顺序第6至第10部。前5部、海贼王和学园默示录没有改写。下一部仍是乱马1/2 第三季。"
   }
 }

@@ -1,0 +1,1648 @@
+{
+  "checkedAt": "2026-11-06",
+  "batch": "2026-11-06-latest-order-6-10",
+  "scope": "作品清单「最新」顺序的第6至第10部。只采用无需登录的公开页面。不是这5部的全市场收集，也不是后续作品已调查。",
+  "works": [
+    {
+      "id": "ole-6b00dca43a78",
+      "name": "来自远方",
+      "originalTitle": "彼方から",
+      "products": 0,
+      "limits": "核对动画官网首页、ON AIR、音乐页和新闻列表，以及官网链出的乐天特集、白泉社漫画页。音乐页只有OP「逃光行」、ED「光の側で」的曲名和创作信息，没有品番、价格和发售日。新闻列表的静态页面没有条目。乐天特集的静态页面没有单价商品。因此本批没有入库商品。",
+      "sources": [
+        {
+          "url": "https://kanatakara-anime.com/",
+          "checkedAtJST": "2026-11-06T15:11:43.044461+09:00",
+          "sha256": "90f926c02ccde42dabf0008de998fff9d759e883f6a32da99a3060cf109f6943",
+          "bytes": 24763
+        },
+        {
+          "url": "https://kanatakara-anime.com/onair/",
+          "checkedAtJST": "2026-11-06T15:11:44.446881+09:00",
+          "sha256": "df5c7a7499bfaa97c341c0e9905386240f29b25ced3f06c0da50107ad592a3d8",
+          "bytes": 22782
+        },
+        {
+          "url": "https://kanatakara-anime.com/music/",
+          "checkedAtJST": "2026-11-06T15:12:16.201905+09:00",
+          "sha256": "d37d2a93dff6a25507a0cf88cf76141597318f3ebd466161a21280fb50706b8f",
+          "bytes": 20425
+        },
+        {
+          "url": "https://www.kanatakara-anime.com/news/",
+          "checkedAtJST": "2026-11-06T15:11:45.415353+09:00",
+          "sha256": "6ec9d8d2bca2ac069012b11de920ec6f2a1aaa5f95f955e47ea3f41a4cf1a6c5",
+          "bytes": 13435
+        },
+        {
+          "url": "https://books.rakuten.co.jp/event/all/kanatakara-anime/?scid=we_rcc_anime_official",
+          "checkedAtJST": "2026-11-06T15:12:27.928844+09:00",
+          "sha256": "3aeed493c752f207ed746df20912b544ff9fb7f8d03c6d62dc747b151dd27d73",
+          "bytes": 61046
+        },
+        {
+          "url": "https://www.hakusensha.co.jp/comicslist/42543/",
+          "checkedAtJST": "2026-11-06T15:12:30.101696+09:00",
+          "sha256": "777e49fc25cfdf337b4e580951eec3f1c11f5b1f3aebae00b70fef81dc6a54ba",
+          "bytes": 149857
+        }
+      ],
+      "goods": []
+    },
+    {
+      "id": "ole-40a1811c91a8",
+      "name": "异人旅馆",
+      "originalTitle": "ホテル・インヒューマンズ",
+      "products": 2,
+      "limits": "登记官网现行Blu-ray BOX与Blu-ray BOXⅡ。2025.09.25公告中的Vol.1、Vol.2已写明発売中止，不另建商品。第2期OP「螺旋」、ED「スイートピー」只有曲名和评论，没有品番、价格和发售日，未编成商品。目录这一条同时覆盖2025年7月开播的第1期和2026年10月开播的第2期，没有另建作品编号。",
+      "sources": [
+        {
+          "url": "https://hotel-inhumans.com/",
+          "checkedAtJST": "2026-11-06T15:11:46.806466+09:00",
+          "sha256": "be828b8047c78bd73b6c407baad63bc6aa99f3bea297ff232ab207388ae9e609",
+          "bytes": 22698
+        },
+        {
+          "url": "https://hotel-inhumans.com/blu-ray.html",
+          "checkedAtJST": "2026-11-06T15:11:48.069999+09:00",
+          "sha256": "b371a4743b4941f09ba1dfd6d4e2466724d7248c8ad5e84df7ea19e82bfc7ef2",
+          "bytes": 8975
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-99.html",
+          "checkedAtJST": "2026-11-06T15:11:49.309070+09:00",
+          "sha256": "9add0141af31412fa35d318802a8cb30b585313a0a1c0ead1419f005dfffcd47",
+          "bytes": 3717
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-70.html",
+          "checkedAtJST": "2026-11-06T15:15:42.001611+09:00",
+          "sha256": "c034d1e9dffa760ac246a6fd5d165e599a6c9017940d963c33f92f9160d117d8",
+          "bytes": 6260
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-71.html",
+          "checkedAtJST": "2026-11-06T15:11:50.486668+09:00",
+          "sha256": "f539e2537752e87f47af36d9e912f0e680236d3f73f7d1d24e7a2cb3d1516cc1",
+          "bytes": 7718
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-17.html",
+          "checkedAtJST": "2026-11-06T15:15:37.918692+09:00",
+          "sha256": "a8ab3d80d6765d8caad69d43192a8199828548dadfc21a2b52624bed890f3865",
+          "bytes": 3679
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-78.html",
+          "checkedAtJST": "2026-11-06T15:15:39.005981+09:00",
+          "sha256": "4e5b5d727ffcb2b8a4396d0b70035eacad13270b9225ccd570bc2b7dbdf6303d",
+          "bytes": 3249
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-87.html",
+          "checkedAtJST": "2026-11-06T15:15:39.965116+09:00",
+          "sha256": "aca00c29a213b4c8c5a5b01343a24db85b876554c059333b6276c8d3070b4966",
+          "bytes": 3556
+        },
+        {
+          "url": "https://hotel-inhumans.com/news/news-86.html",
+          "checkedAtJST": "2026-11-06T15:15:41.067617+09:00",
+          "sha256": "d9e7299523b043ca17559d295d2fa72f897fa01e75da6c2c720236cc73010390",
+          "bytes": 5508
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-e1c54e657a63402bc9",
+          "name": "ホテル・インヒューマンズ Blu-ray BOX Ⅱ",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray BOX",
+          "series": "TV动画 Blu-ray BOX",
+          "characters": "星生朗 / 灰咲沙羅",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画 Blu-ray BOX",
+          "acquisitionType": "零售周边",
+          "price": "39,600円（税込）",
+          "releaseDate": "商品页：2027.2.24（Wed）Release。同站2026.10.04新闻写2027年2月6日（水）。两处并存，未改写。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。 发售日按商品页与新闻原文并列保留。",
+          "specifications": [
+            "品番：DMPXA-489",
+            "収録話：request 14.～request 26.",
+            "同梱特典：アニメ描き下ろしジャケット、スペシャルブックレット（原作・田島 青先生描き下ろし漫画収録）",
+            "映像特典：ノンクレジットオープニング映像、ノンクレジットエンディング映像",
+            "商品页与2026.10.04新闻都没有写发行公司"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://hotel-inhumans.com/blu-ray.html",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://hotel-inhumans.com/blu-ray.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "Blu-ray BOXⅡ发售新闻",
+              "url": "https://hotel-inhumans.com/news/news-99.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "DMM商品页",
+              "url": "https://www.dmm.com/mono/dvd/-/detail/=/cid=dmpxa489/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-29320a64248a85a488",
+          "name": "ホテル・インヒューマンズ Blu-ray BOX",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray BOX",
+          "series": "TV动画 Blu-ray BOX",
+          "characters": "星生朗 / 灰咲沙羅",
+          "manufacturer": "合同会社DMM.com",
+          "productBrand": "TV动画 Blu-ray BOX",
+          "acquisitionType": "零售周边",
+          "price": "39,600円（税込）",
+          "releaseDate": "2025.12.24（Wed）Release",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。 发行公司取自规格变更公告落款；商品页本身没有再写公司名。",
+          "specifications": [
+            "品番：DMPXA-456",
+            "収録話：request 1.～request 13.",
+            "同梱特典：アニメ描き下ろしジャケット、スペシャルブックレット（原作・田島 青先生描き下ろし漫画収録）",
+            "映像特典：ノンクレジットオープニング映像、ノンクレジットエンディング映像",
+            "可见正文的早期预约特典：原作・田島 青先生描き下ろしミニ色紙（灰咲沙羅）。截止日期写在页面注释中，可见正文没有该日期，未写入。",
+            "2025.09.25规格变更公告：Blu-ray Vol.1 19,800円（税込）＜品番：DMPXA-454＞与 Blu-ray Vol.2 19,800円（税込）＜品番：DMPXA-455＞発売中止；变更后为 Blu-ray BOX 39,600円（税込）＜品番：DMPXA-456＞、2025年12月24日（水）発売。中止标题不另建商品。",
+            "同日乐天活动页把变更后的应募期间写成「2025年9月25日（木）18:00 ～ 2025年12年23日（火）23:59」，原文「12年」未改。变更前一处写成「2025年7月6日（火） ～ 2025年11年25日（火）23:59」，原文「11年」未改。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://hotel-inhumans.com/blu-ray.html",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://hotel-inhumans.com/blu-ray.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "规格变更·再发售公告",
+              "url": "https://hotel-inhumans.com/news/news-70.html",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "活动对象商品变更公告",
+              "url": "https://hotel-inhumans.com/news/news-71.html",
+              "linkType": "零售活动公告（非实时库存）"
+            },
+            {
+              "name": "DMM商品页",
+              "url": "https://www.dmm.com/mono/dvd/-/detail/=/cid=dmpxa456/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-1221f7d90dca",
+      "name": "相反的你和我",
+      "originalTitle": "正反対な君と僕",
+      "products": 5,
+      "limits": "目录只有一条2026年作品。官网首页把2026年1月的播出和7月起的第2期写在同一作品下，因此第1至第4卷Blu-ray都记在这条编号下；第3、4卷页面自己写了「2期」。GOODS索引的静态HTML只有分页、没有单品和价格。永旺快闪新闻没有单品和价格，给出的两则详情链接返回404。店铺特典未拆成商品。",
+      "sources": [
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+          "checkedAtJST": "2026-11-06T15:11:52.206251+09:00",
+          "sha256": "a49101690e39c5bb7f19cd433dcf1ae9500756c65f482e2edb5399dafb370cbe",
+          "bytes": 90976
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/onair",
+          "checkedAtJST": "2026-11-06T15:12:44.603321+09:00",
+          "sha256": "8ecc52d8159d457d97541196c33feb248b4abfdac9dbc75bad4c82c8bd10c62b",
+          "bytes": 55975
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/music",
+          "checkedAtJST": "2026-11-06T15:12:42.491335+09:00",
+          "sha256": "186c1208e5428aa189aec557463285da3fb6a627d35acfe34cf53fe8d2fd2d36",
+          "bytes": 38788
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/goods",
+          "checkedAtJST": "2026-11-06T15:12:37.994048+09:00",
+          "sha256": "c0a5b113a4cbc45f4a6e6683189a2eb9f3225f69bacc191d88bc77c49fc2fe74",
+          "bytes": 31845
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd1",
+          "checkedAtJST": "2026-11-06T15:12:48.232166+09:00",
+          "sha256": "8f98e050d0c344484de91c1c6d92cf3bfde280e4cac6bf55478ce164256b39b1",
+          "bytes": 27512
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd2",
+          "checkedAtJST": "2026-11-06T15:12:50.096853+09:00",
+          "sha256": "ac21321f8d0359a098c6f05983000c7335bf6411391fb40add288fa9d2db502b",
+          "bytes": 27434
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd3",
+          "checkedAtJST": "2026-11-06T15:12:51.663008+09:00",
+          "sha256": "021507a4efd23cfcbaf6590cc20047ca3adb91654f445d26a270078592480cf4",
+          "bytes": 27579
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd4",
+          "checkedAtJST": "2026-11-06T15:12:53.581220+09:00",
+          "sha256": "62bef3b5d49a9e0ad1980d50c36a16e5ff95f807fe03331ae9f549c387ccd9b3",
+          "bytes": 27234
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/news/714",
+          "checkedAtJST": "2026-11-06T15:15:50.404754+09:00",
+          "sha256": "282a07058e3d950ab73e2def12c5a0a12c6445253eeab338c75308fe640342bb",
+          "bytes": 20301
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/news/709",
+          "checkedAtJST": "2026-11-06T15:15:46.820700+09:00",
+          "sha256": "ea99b6b05b14a8c4e78c4748f93f343e2645a931da4cbb2f9176ed7e8395f643",
+          "bytes": 21807
+        },
+        {
+          "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/news/721",
+          "checkedAtJST": "2026-11-06T15:15:45.052955+09:00",
+          "sha256": "19bca56dff89450d5800c7134c750b61443a7e603a0e5a81799454a1fac9854f",
+          "bytes": 27253
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-a9f9470e8c8954a0d9",
+          "name": "正反対な君と僕 第1巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray",
+          "series": "TV动画 Blu-ray",
+          "characters": "鈴木 / 谷",
+          "manufacturer": "松竹",
+          "productBrand": "TV动画 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "13,200円（税込）",
+          "releaseDate": "2026年4月22日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：SHBR-0798",
+            "本編：約144分＋映像特典 約30分以上",
+            "画面サイズ：16：9 フルサイズ〔1080p/Hi-Def〕／ディスクタイプ：BD50G／音声：（オリジナル）日本語 リニアPCM2.0chステレオ／字幕：なし",
+            "本編：第1话～第6话",
+            "映像特典：ABEMAアニメ祭 スペシャルステージ映像、OP映像、PV集、映画「北の魔女とイエティ」予告",
+            "外装特典：ラパントラック描き下ろし特製アウターケース（鈴木・谷）",
+            "封入特典：イエティ着せ替えカード、Blu-ray風アクリルキーホルダー、オリジナルクリアカード、イエティイベント抽選申込券",
+            "発売・販売元：松竹",
+            "店舗別特典见同页，没有单独标价，未另建商品",
+            "第1卷、第2卷页面写抽选活动已于2026年6月28日(日)结束，追加生产不再封入抽选券。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd1",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd1",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "松竹官方商店",
+              "url": "https://store.shochiku.co.jp/shop/g/gSHBR0798/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-f8a0d1cfba963a8b8f",
+          "name": "正反対な君と僕 第2巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray",
+          "series": "TV动画 Blu-ray",
+          "characters": "山田 / 西",
+          "manufacturer": "松竹",
+          "productBrand": "TV动画 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "13,200円（税込）",
+          "releaseDate": "2026年5月27日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：SHBR-0799",
+            "本編：約144分＋映像特典 約30分以上",
+            "画面サイズ：16：9 フルサイズ〔1080p/Hi-Def〕／ディスクタイプ：BD50G／音声：（オリジナル）日本語 リニアPCM2.0chステレオ／字幕：なし",
+            "本編：第7话～第12话",
+            "映像特典：先行上映会 舞台挨拶映像、ノンクレジットED、マナーCM",
+            "外装特典：ラパントラック描き下ろし特製アウターケース（山田・西）",
+            "封入特典：Blu-ray風アクリルキーホルダー、オリジナルクリアカード、イエティイベント抽選申込券",
+            "発売・販売元：松竹",
+            "店舗別特典见同页，没有单独标价，未另建商品",
+            "第1卷、第2卷页面写抽选活动已于2026年6月28日(日)结束，追加生产不再封入抽选券。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd2",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd2",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "松竹官方商店",
+              "url": "https://store.shochiku.co.jp/shop/g/gSHBR0799/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-c5a2f2c169d729a9ee",
+          "name": "正反対な君と僕 第3巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray",
+          "series": "TV动画 Blu-ray",
+          "characters": "平 / 東",
+          "manufacturer": "松竹",
+          "productBrand": "TV动画 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "13,200円（税込）",
+          "releaseDate": "2026年10月21日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：SHBR-0813",
+            "本編：約145分＋映像特典約20分以上",
+            "画面サイズ：16：9 フルサイズ〔1080p/Hi-Def〕／ディスクタイプ：BD50G／音声：（オリジナル）日本語 リニアPCM2.0chステレオ／字幕：なし",
+            "本編：第13话～第18话",
+            "映像特典：AnimeJapanスペシャルステージ映像、2期 OP映像、PV集、映画「北の魔女とイエティ」予告",
+            "外装特典：ラパントラック描き下ろし特製アウターケース(平・東)",
+            "封入特典：イエティ着せ替えカード用 着せ替えパーツ(2つ)、Blu-ray風アクリルキーホルダー、オリジナルクリアカード、イエティイベント(第2弾)抽選申込券",
+            "発売・販売元：松竹",
+            "店舗別特典见同页，没有单独标价，未另建商品",
+            "2026.10.19新闻将第3卷、第4卷封入抽选券对应的活动写为2027年4月29日(木・祝)「イエティーパーティー」。第3卷应募期间：2026年10月20日(火)10:00～2026年11月17日(火)23:59。第4卷：2026年12月1日(火)10:00～2027年1月13日(水)23:59。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd3",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd3",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "松竹官方商店",
+              "url": "https://store.shochiku.co.jp/shop/g/gSHBR0813/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-0e5b303940968d74f1",
+          "name": "正反対な君と僕 第4巻 Blu-ray",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画 Blu-ray",
+          "series": "TV动画 Blu-ray",
+          "characters": "鈴木 / 谷",
+          "manufacturer": "松竹",
+          "productBrand": "TV动画 Blu-ray",
+          "acquisitionType": "零售周边",
+          "price": "13,200円（税込）",
+          "releaseDate": "2026年12月2日(水)発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：SHBR-0814",
+            "本編：約169分＋映像特典約30分以上",
+            "画面サイズ：16：9 フルサイズ〔1080p/Hi-Def〕／ディスクタイプ：BD50G／音声：（オリジナル）日本語 リニアPCM2.0chステレオ／字幕：なし",
+            "本編：第19话～第25话",
+            "映像特典：第13话先行上映会 みんな大集合トークイベント映像、2期 ノンクレジットED",
+            "外装特典：ラパントラック描き下ろし特製アウターケース(鈴木・谷)",
+            "封入特典：Blu-ray風アクリルキーホルダー、オリジナルクリアカード、イエティイベント(第2弾)抽選申込券",
+            "発売・販売元：松竹",
+            "店舗別特典见同页，没有单独标价，未另建商品",
+            "2026.10.19新闻将第3卷、第4卷封入抽选券对应的活动写为2027年4月29日(木・祝)「イエティーパーティー」。第3卷应募期间：2026年10月20日(火)10:00～2026年11月17日(火)23:59。第4卷：2026年12月1日(火)10:00～2027年1月13日(水)23:59。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd4",
+          "sourceName": "TV动画官网 · Blu-ray",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/blu-ray/bd4",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "松竹官方商店",
+              "url": "https://store.shochiku.co.jp/shop/g/gSHBR0814/",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-6ff9b92fff018e88c4",
+          "name": "『正反対な君と僕』オリジナル・サウンドトラック Vol.02（配信）",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画第2期原声",
+          "series": "TV动画第2期原声",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "官方新闻未标注厂商",
+          "productBrand": "TV动画第2期原声",
+          "acquisitionType": "配信",
+          "price": "来源未标注实体价格",
+          "releaseDate": "新闻标题：9/28（月）。新闻日期为2026.09.27，标题没有再写年份。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "第2期剧伴",
+            "tofubeats",
+            "全19曲",
+            "没有品番",
+            "配信链接：https://lnk.to/SEIHANTAI2"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://sh-anime.shochiku.co.jp/seihantai_anime/news/714",
+          "sourceName": "TV动画官网 · NEWS",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 NEWS",
+              "url": "https://sh-anime.shochiku.co.jp/seihantai_anime/news/714",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-49a13e022683",
+      "name": "转生贵族凭鉴定技能扭转人生 第三季",
+      "originalTitle": "転生貴族、鑑定スキルで成り上がる 第3期",
+      "products": 11,
+      "limits": "只登记标明第3期的Blu-ray BOX、第3期OP两形态、第3期ED两形态，以及2026.9.17 V-STORAGE稿里已标价的6条THEキャラ系列。第1期、第2期影像和更早话数的抽选没有并入。GOODS列表、MINI SOF协作和店铺特典没有单价或没有单品名，未拆成商品。",
+      "sources": [
+        {
+          "url": "https://kanteiskill.com/",
+          "checkedAtJST": "2026-11-06T15:11:53.487105+09:00",
+          "sha256": "820019a0f6240838607d0733de09c2b42ffcdf619ea738c96516079b5cc8680b",
+          "bytes": 28453
+        },
+        {
+          "url": "https://kanteiskill.com/onair/",
+          "checkedAtJST": "2026-11-06T15:12:56.253654+09:00",
+          "sha256": "6641a1260085375ff971edac50f066b6a08c68bbc85ef73ad930a941c67f34d6",
+          "bytes": 27185
+        },
+        {
+          "url": "https://kanteiskill.com/product/bd3",
+          "checkedAtJST": "2026-11-06T15:11:54.762153+09:00",
+          "sha256": "cfa028fa1aa108b51eb8dcb0c63a6f6c38c2a2e1580bc7833adbedbd1842a1d8",
+          "bytes": 29224
+        },
+        {
+          "url": "https://kanteiskill.com/product/op3/",
+          "checkedAtJST": "2026-11-06T15:12:57.229394+09:00",
+          "sha256": "1611451e03a80b0113b1aae30759df5d445b78cef740dac30897c7610fd4ac16",
+          "bytes": 35688
+        },
+        {
+          "url": "https://kanteiskill.com/product/ed3",
+          "checkedAtJST": "2026-11-06T15:15:43.193468+09:00",
+          "sha256": "6297cc1717c49e2adb8d6b2357a92d01d6028b583033cda8821590115822c040",
+          "bytes": 33546
+        },
+        {
+          "url": "https://kanteiskill.com/goods/",
+          "checkedAtJST": "2026-11-06T15:12:55.155134+09:00",
+          "sha256": "90fef5215082d074256d7f3dedb2bbc792ecd881898a0a134bbf3e786a5353cb",
+          "bytes": 31365
+        },
+        {
+          "url": "https://kanteiskill.com/product/shop-tokuten3",
+          "checkedAtJST": "2026-11-06T15:12:57.928529+09:00",
+          "sha256": "b610588857c7218e23ab781fa755b9167bcee5fcdea0c063c9bd4c1524eb9d6d",
+          "bytes": 38561
+        },
+        {
+          "url": "https://kanteiskill.com/news/2456",
+          "checkedAtJST": "2026-11-06T15:13:05.479016+09:00",
+          "sha256": "547bb5cd31350a91d3436d25daff4fdf15f98d460000d0ef1d3f1bfc6c6dbbf5",
+          "bytes": 25989
+        },
+        {
+          "url": "https://v-storage.jp/bv_news/286600/",
+          "checkedAtJST": "2026-11-06T15:13:04.369435+09:00",
+          "sha256": "1521d39c8e981be8d125aa9646ecdc29ea9dca77d71ac9db3b96ff8559317710",
+          "bytes": 75860
+        },
+        {
+          "url": "https://v-storage.jp/catalog_news/289600/",
+          "checkedAtJST": "2026-11-06T15:17:11.364143+09:00",
+          "sha256": "53d47646d4905bc1ea06fc7bee616ce1193d31299983d4165b5b667e6833bb36",
+          "bytes": 40983
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-82b62b6293fbd2aabd",
+          "name": "THEキャラ カンバッジ(ブラインド)",
+          "kind": "merch",
+          "category": "徽章",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "単品440円（税込）、セット3,080円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-9a5b087244c6f66b96",
+          "name": "THEキャラ アクリルフィギュア",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各1,650円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-490a9bd1934f3b7e41",
+          "name": "THEキャラ 両面アクリルフィギュア",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各1,430円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b6c65e8640f584900c",
+          "name": "THEキャラ ミニアクリルアート",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "2,530円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-c326c7e4cc894ebca9",
+          "name": "THEキャラ ミニアクリルスタンド",
+          "kind": "merch",
+          "category": "立牌",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各770円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-5ecd5b83d19265aa93",
+          "name": "THEキャラ チェンジングキーホルダー",
+          "kind": "merch",
+          "category": "挂件",
+          "originalType": "THEキャラ",
+          "series": "THEキャラ",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "来源页未标注厂商",
+          "productBrand": "THEキャラ",
+          "acquisitionType": "零售 / 受注商品",
+          "price": "各1,430円（税込）",
+          "releaseDate": "2026年9月17日(木)18：00～10月1日(木)23:59先行预约",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "报道日期2026.9.17。先行预约原文：本日9月17日(木)18：00～10月1日(木)23:59。系列行没有单款名称，未拆分。",
+            "商品名沿用新闻中的系列名，没有写成第3期单品",
+            "通贩入口是网站首页，没有逐条SKU页面"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://v-storage.jp/bv_news/286600/",
+          "sourceName": "バンダイナムコフィルムワークス · V-STORAGE",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "V-STORAGE 第3期新商品新闻",
+              "url": "https://v-storage.jp/bv_news/286600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "THEキャラ通贩首页",
+              "url": "https://www.the-chara.com/",
+              "linkType": "官方新闻给出的通贩入口（未逐条核对SKU库存）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b01a96d57d397c7ebb",
+          "name": "『転生貴族、鑑定スキルで成り上がる 第3期』Blu-ray BOX（特装限定版）",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画第3期 Blu-ray BOX",
+          "series": "TV动画第3期 Blu-ray BOX",
+          "characters": "アルス・ローベント / リーツ・ミューセス",
+          "manufacturer": "バンダイナムコフィルムワークス",
+          "productBrand": "TV动画第3期 Blu-ray BOX",
+          "acquisitionType": "零售周边",
+          "price": "41,800円（税込）",
+          "releaseDate": "2027年2月26日発売",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：BCXA-2100",
+            "収録内容：第25話～第36話",
+            "官网：約348分＜本編約288分＋特典約60分＞／本編ディスク：ﾘﾆｱPCM（ｽﾃﾚｵ）／AVC／BD50G×2枚／16:9<1080i High Definition>／特典ディスク：ﾘﾆｱPCM（ｽﾃﾚｵ）／AVC／BD25G×1枚／16:9<1080p High Definition>・一部16:9<1080i High Definition>",
+            "V-STORAGE目录稿另写：税抜価格：￥38,000　税込価格（10％）：￥41,800。スペック：カラー／（予）348分／（本編ﾃﾞｨｽｸ：約288分+特典ﾃﾞｨｽｸ：約60分）／リニアPCM (ステレオ)／AVC／BD50G／16:9<1080p High Definition>・一部16:9<1080i High Definition。分辨率写法与官网不同，两处并存。",
+            "同一目录稿标题和商品名写第3期，正文一处写成「『転生貴族、鑑定スキルで成り上がる 第2期』Blu-ray BOXが2027年2月26日に発売決定」。品番同为BCXA-2100。未把这句改成第3期。",
+            "仕様：キャラクターデザイン八尋裕子描き下ろしWブックケース、キャラクター原案jimmy＆漫画原作井上菜摘描き下ろしインナージャケット",
+            "特典ディスク：第3期放送直前特番（本編／特典限定パート）、ノンクレジットOP、ノンクレジットED、PV&CM",
+            "ドラマCD「傭兵リーツ・ミューセス」：リーツ・ミューセス 坂 泰斗／アルス・ローベント 藤原夏海",
+            "店舗別購入特典没有单独标价，未另建商品"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://kanteiskill.com/product/bd3",
+          "sourceName": "公式ポータル · 第3期 Blu-ray BOX",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "公式ポータル 第3期 Blu-ray",
+              "url": "https://kanteiskill.com/product/bd3",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "V-STORAGE目录稿",
+              "url": "https://v-storage.jp/catalog_news/289600/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "第3期店舗別購入特典",
+              "url": "https://kanteiskill.com/product/shop-tokuten3",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-bd29c530a2dec5bd91",
+          "name": "OP主題歌「Still Water 」佐々木李子 アーティスト盤",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "第3期OP主題歌",
+          "series": "第3期OP主題歌",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "Lantis",
+          "productBrand": "第3期OP主題歌",
+          "acquisitionType": "零售周边",
+          "price": "【アーティスト盤】3,300円(10%税込)/3,000円(税抜)",
+          "releaseDate": "2026年11月11日(水)",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：LACM- 24728 (CD＋BD)",
+            "页面品番在连字符后有空格",
+            "他新規楽曲2曲",
+            "Blu-ray：01.「Still Water」 Music Video、02. Music Video Making",
+            "作詞・作曲：Skipjack　編曲：佐藤厚仁",
+            "店铺特典没有单独标价，未另建商品"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://kanteiskill.com/product/op3/",
+          "sourceName": "公式ポータル · 第3期OP",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "公式ポータル 第3期OP",
+              "url": "https://kanteiskill.com/product/op3/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-3debebdbcabc7fdd60",
+          "name": "OP主題歌「Still Water 」佐々木李子 アニメ盤",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "第3期OP主題歌",
+          "series": "第3期OP主題歌",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "Lantis",
+          "productBrand": "第3期OP主題歌",
+          "acquisitionType": "零售周边",
+          "price": "【アニメ盤】1,500円(10%税込)/1,650円(税抜)",
+          "releaseDate": "2026年11月11日(水)",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。 动画盘价格节点的税込与税抜数字按页面原样保留。",
+          "specifications": [
+            "品番：LACM- 24729 (CDのみ)",
+            "页面把1,500円标为10%税込、把1,650円标为税抜。两数与通常税率方向相反，按原文保留，未改算。",
+            "他新規楽曲2曲",
+            "作詞・作曲：Skipjack　編曲：佐藤厚仁"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://kanteiskill.com/product/op3/",
+          "sourceName": "公式ポータル · 第3期OP",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "公式ポータル 第3期OP",
+              "url": "https://kanteiskill.com/product/op3/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-1e29faf149b10c2abc",
+          "name": "ED主題歌「日々を越えて 」明くる夜の羊 初回限定盤",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "第3期ED主題歌",
+          "series": "第3期ED主題歌",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "UNIERA",
+          "productBrand": "第3期ED主題歌",
+          "acquisitionType": "零售周边",
+          "price": "【初回限定盤】4,400円（10％税込）/4,000円（税抜）",
+          "releaseDate": "CD：2026年11月18日(水)",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：LAUE-34008 (CD+BD)",
+            "曲名页标题为「日々を越えて 」，引号前有空格",
+            "デジタルリリース：2026年9月28日(月)～",
+            "作詞：カワノユイ　作曲：明くる夜の羊　編曲：明くる夜の羊/大久保友裕",
+            "店铺特典没有单独标价，未另建商品"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://kanteiskill.com/product/ed3",
+          "sourceName": "公式ポータル · 第3期ED",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "公式ポータル 第3期ED",
+              "url": "https://kanteiskill.com/product/ed3",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-ed2e795b6d22d5c63d",
+          "name": "ED主題歌「日々を越えて 」明くる夜の羊 通常盤",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "第3期ED主題歌",
+          "series": "第3期ED主題歌",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "UNIERA",
+          "productBrand": "第3期ED主題歌",
+          "acquisitionType": "零售周边",
+          "price": "【通常盤】1,650円（10％税込）/1,500円（税抜）",
+          "releaseDate": "CD：2026年11月18日(水)",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：LAUE-4008 (CDのみ)",
+            "曲名页标题为「日々を越えて 」，引号前有空格",
+            "デジタルリリース：2026年9月28日(月)～",
+            "作詞：カワノユイ　作曲：明くる夜の羊　編曲：明くる夜の羊/大久保友裕"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://kanteiskill.com/product/ed3",
+          "sourceName": "公式ポータル · 第3期ED",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "公式ポータル 第3期ED",
+              "url": "https://kanteiskill.com/product/ed3",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    },
+    {
+      "id": "ole-8833513bff5a",
+      "name": "一觉醒来坐拥神装和飞船，我决定以买一套独门独户的房子为目标作为佣兵自由地活下去",
+      "originalTitle": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "products": 12,
+      "limits": "登记官网Blu-ray&DVD第1至第3卷的特装版、完全生产限定版Blu-ray和DVD，以及音乐页上两行已标价单曲和未标价的EP。抱枕尺寸只在第1卷特装版写了H 500×W 1,600（㎜），没有套用到第2、3卷。店铺特典和三种形态共用的商店链接没有再拆库存。异世界三作合作新闻没有商品单价。",
+      "sources": [
+        {
+          "url": "https://saikyosoubi.com/",
+          "checkedAtJST": "2026-11-06T15:11:56.301670+09:00",
+          "sha256": "f3f8fe621e22f7dd8eca656873420e67be892bd623cda5e54b1250e9bb62d587",
+          "bytes": 115160
+        },
+        {
+          "url": "https://saikyosoubi.com/onair/",
+          "checkedAtJST": "2026-11-06T15:13:01.302060+09:00",
+          "sha256": "52a7af322161d69119cb8ba27151b01a87e49ec4cf93ff182c3d7f9b732e99fc",
+          "bytes": 24111
+        },
+        {
+          "url": "https://saikyosoubi.com/bluray/",
+          "checkedAtJST": "2026-11-06T15:12:59.110373+09:00",
+          "sha256": "0b7ea7c8fa43deaeca2ce61d555c379225c9f93db7def9ef518407778c7a86b1",
+          "bytes": 37511
+        },
+        {
+          "url": "https://saikyosoubi.com/music/",
+          "checkedAtJST": "2026-11-06T15:13:00.290815+09:00",
+          "sha256": "49b9cd008b33a8abc25af12b6c4b7e39c76fc5813e4c88cbc3dbdccb4f32a975",
+          "bytes": 25147
+        },
+        {
+          "url": "https://saikyosoubi.com/news/?article_id=71279",
+          "checkedAtJST": "2026-11-06T15:13:03.557744+09:00",
+          "sha256": "941b987ee21cfd3c27190ae82b4bdbdf386ade51f44cd858fdd1cef936bc7fe1",
+          "bytes": 11077
+        },
+        {
+          "url": "https://saikyosoubi.com/news/?article_id=71251",
+          "checkedAtJST": "2026-11-06T15:13:02.302753+09:00",
+          "sha256": "8dc8278ce1c8e36797afbc3f39036acd29b50ee7aaad6d7eb0ea8dc8dca0ab57",
+          "bytes": 11167
+        }
+      ],
+      "goods": [
+        {
+          "id": "latest-868951f3d8735feee8",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 1 Blu-ray　ミミ抱き枕カバー付き特装版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "ミミ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥29,150（税込）",
+          "releaseDate": "2027年1月27日（水）。页面另写：確実に入手したいお客様は11月8日(日)までにご予約ください。预约日没有写年份。",
+          "size": "H 500×W 1,600（㎜）",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18151",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.1）",
+            "映像特典：予告、ノンクレOP（Ver.1）、ノンクレED",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：5話（第1話～第5話）",
+            "アニプレックスオンライン第1卷三种形态共用一个链接，未再拆库存",
+            "抱き枕カバー H 500×W 1,600（㎜）",
+            "素材:ライクトロンⓇ"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第1卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp01.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-340f0a8e758d70a8b9",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 1 Blu-ray　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥18,150（税込）",
+          "releaseDate": "2027年1月27日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18154",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.1）",
+            "映像特典：予告、ノンクレOP（Ver.1）、ノンクレED",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：5話（第1話～第5話）",
+            "アニプレックスオンライン第1卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第1卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp01.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-f36ced6e946522437b",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 1 DVD　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥14,300（税込）",
+          "releaseDate": "2027年1月27日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18154",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.1）",
+            "映像特典：予告、ノンクレOP（Ver.1）、ノンクレED",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：5話（第1話～第5話）",
+            "アニプレックスオンライン第1卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第1卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp01.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-f6b66850cd5a191338",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 2 Blu-ray　エルマ抱き枕カバー付き特装版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "エルマ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥26,400（税込）",
+          "releaseDate": "2027年2月24日（水）。页面另写：確実に入手したいお客様は12月6日(日)までにご予約ください。预约日没有写年份。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18156",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.2）",
+            "映像特典：予告、ノンクレOP（Ver.2）",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第6話～第9話）",
+            "アニプレックスオンライン第2卷三种形态共用一个链接，未再拆库存",
+            "エルマ抱き枕カバー。本卷页面没有写尺寸。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第2卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp02.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-b306ff7ea0524c1185",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 2 Blu-ray　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥15,400（税込）",
+          "releaseDate": "2027年2月24日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18159",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.2）",
+            "映像特典：予告、ノンクレOP（Ver.2）",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第6話～第9話）",
+            "アニプレックスオンライン第2卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第2卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp02.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-59ce443546c5627b73",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 2 DVD　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥12,100（税込）",
+          "releaseDate": "2027年2月24日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18159",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "特典CD（オリジナルサウンドトラックVol.2）",
+            "映像特典：予告、ノンクレOP（Ver.2）",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第6話～第9話）",
+            "アニプレックスオンライン第2卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第2卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp02.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-0d969edc4b31d342da",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 3 Blu-ray　セレナ抱き枕カバー付き特装版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥26,400（税込）",
+          "releaseDate": "2027年3月31日（水）。页面另写：確実に入手したいお客様は12月20日(日)までにご予約ください。预约日没有写年份。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18161",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "ミミPETスタンド",
+            "映像特典：予告",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第10話～第13話）",
+            "アニプレックスオンライン第3卷三种形态共用一个链接，未再拆库存",
+            "セレナ抱き枕カバー。本卷页面没有写尺寸。"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第3卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp03.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-dfe72da7a8e843e790",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 3 Blu-ray　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥15,400（税込）",
+          "releaseDate": "2027年3月31日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZX-18164",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "ミミPETスタンド",
+            "映像特典：予告",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第10話～第13話）",
+            "アニプレックスオンライン第3卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第3卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp03.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-8218c3bae2566f7601",
+          "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい 3 DVD　完全生産限定版",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画卷装影像",
+          "series": "TV动画卷装影像",
+          "characters": "キャプテン・ヒロ / ミミ / エルマ / セレナ",
+          "manufacturer": "官方商品页未标注发行公司",
+          "productBrand": "TV动画卷装影像",
+          "acquisitionType": "零售周边",
+          "price": "￥12,100（税込）",
+          "releaseDate": "2027年3月31日（水）",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "品番：ANZB-18164",
+            "描き下ろしスリーブ",
+            "原作・リュート書き下ろし小説",
+            "ブックレット",
+            "ミミPETスタンド",
+            "映像特典：予告",
+            "※仕様・特典は変更となる可能性がございます。",
+            "収録話数：4話（第10話～第13話）",
+            "アニプレックスオンライン第3卷三种形态共用一个链接，未再拆库存"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/bluray/",
+          "sourceName": "TV动画官网 · Blu-ray&DVD",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 Blu-ray&DVD",
+              "url": "https://saikyosoubi.com/bluray/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "アニプレックスオンライン 第3卷入口",
+              "url": "https://online.aniplex.co.jp/itemJNmLuqrp03.html",
+              "linkType": "官方目录列出的商品页（目标库存未核查）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-63dc69cd83097264cc",
+          "name": "FLOW「UNSTOPPABLE / Sorrow」 VVCL-3000〜1",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画OP单曲",
+          "series": "TV动画OP单曲",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "SACRA MUSIC / Sony Music Labels",
+          "productBrand": "TV动画OP单曲",
+          "acquisitionType": "零售周边",
+          "price": "2,420円(税込)",
+          "releaseDate": "先行配信：2026年10月5日（月）。ニューシングル発売日写10月28日（水），该行没有写年份。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "作詞：KOHSHI ASAKAWA",
+            "作曲：TAKESHI ASAKAWA",
+            "編曲：FLOW",
+            "页面在「期間生産限定盤（CD＋ Blu-ray）」和「※2形態」「※アニメ描きおろしジャケット」之下并列两行，没有再标明哪一行是限定盘"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://saikyosoubi.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "CD购买链接",
+              "url": "https://flow.lnk.to/1028_PKG",
+              "linkType": "官方音乐页列出的购买链接（跳转页，未再核对单价）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-81e16c4421aa5aa77e",
+          "name": "FLOW「Sorrow / UNSTOPPABLE」 VVCL-3002〜3",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画OP单曲",
+          "series": "TV动画OP单曲",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "SACRA MUSIC / Sony Music Labels",
+          "productBrand": "TV动画OP单曲",
+          "acquisitionType": "零售周边",
+          "price": "2,420円(税込)",
+          "releaseDate": "与「UNSTOPPABLE / Sorrow」同页并列。ニューシングル発売日写10月28日（水），该行没有写年份。先行配信行写2026年10月5日（月）。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "页面没有单独写出这一形态的碟片构成",
+            "与上一行同属※2形態，未自行判定哪一行是期间生产限定盘"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://saikyosoubi.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "CD购买链接",
+              "url": "https://flow.lnk.to/1028_PKG",
+              "linkType": "官方音乐页列出的购买链接（跳转页，未再核对单价）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        },
+        {
+          "id": "latest-654428039c25831072",
+          "name": "ASTERISM「MY WAY」コラボレーションEP 初回仕様限定盤",
+          "kind": "merch",
+          "category": "音乐 / 影像",
+          "originalType": "TV动画ED所收录EP",
+          "series": "TV动画ED所收录EP",
+          "characters": "系列商品 / 角色见官方配图",
+          "manufacturer": "Sony Music Labels Inc.",
+          "productBrand": "TV动画ED所收录EP",
+          "acquisitionType": "零售周边",
+          "price": "来源未标注价格",
+          "releaseDate": "先行配信：2026年10月4日（日）。EP発売日写12月2日（水），该行没有写年份。",
+          "size": "来源目录未标尺寸；请核对商品详情",
+          "description": "按公开页面登记的商品或系列档案。一条多款系列不拆成未列明的单品。价格、日期和尺寸只保留来源原文。",
+          "specifications": [
+            "初回仕様限定盤（CD）",
+            "紙ジャケット仕様",
+            "アニメ絵柄ワイドキャップステッカー付き",
+            "全5曲：MY WAY、What’s my life?、GYUTTO!! (w/ Marty Friedman)、Metal Gandhara (w/ Pineapple Express)、MY WAY (Instrumental)",
+            "作詞：HAL-CA",
+            "作曲・編曲：ASTERISM"
+          ],
+          "image": "",
+          "images": [],
+          "sourceUrl": "https://saikyosoubi.com/music/",
+          "sourceName": "TV动画官网 · MUSIC",
+          "checkedAt": "2026-11-06",
+          "channels": [
+            {
+              "name": "TV动画官网 MUSIC",
+              "url": "https://saikyosoubi.com/music/",
+              "linkType": "官方资料页 / 目录（非购买确认）"
+            },
+            {
+              "name": "CD购买链接",
+              "url": "https://ASTERISM.lnk.to/MY_WAY",
+              "linkType": "官方音乐页列出的购买链接（跳转页，未再核对单价）"
+            }
+          ],
+          "addedInBatch": "2026-11-06-latest-order-6-10",
+          "availability": "历史及已公告商品资料，不表示当前有货。原价、投放与发售日期保留为来源记录。未核查实时库存。",
+          "imagePlaceholder": false
+        }
+      ]
+    }
+  ]
+}
