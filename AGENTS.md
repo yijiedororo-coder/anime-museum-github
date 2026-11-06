@@ -11,7 +11,7 @@
 - 缺少GitHub写入授权时，完成所有能独立完成的本地工作，保留可审阅的提交，说明真实授权缺口；不索要密码、令牌，不把凭证写入文件或日志。
 - 保留原1,427部作品库、已有作品/商品/活动编号、路由顺序、来源和渠道。新增内容追加；合并时保留不同价格、月份、图片及渠道。
 - 按年份调查的进度在 `data/chronology-progress.json`。首轮仅调查海贼王、学园默示录，后续作品和未核年份仍待处理。`data/early-works-research.json`为当次来源事实；采集脚本刷新公开页面，导入脚本校验日本日期。CSV与来源报告由构建生成，保留已入库商品位置；不要把首轮目录调查标成全市场收集完成。
-- 作品清单「最新」顺序的下一批记在 `data/latest-order-batch-2026-11-06.json` 与 `data/chronology-progress.json` 的 `latestOrderBatch`。2026-11-06 只入库该顺序前5部；不要把它写成30部已完成或全市场收集完成。`tools/import-latest-order-batch.mjs` 只追加这5部，不重跑首轮导入。
+- 作品清单「最新」顺序分批记录。前5部在 `data/latest-order-batch-2026-11-06.json` 与 `chronology-progress.json` 的 `latestOrderBatch`；第6至第10部在 `data/latest-order-batch-2026-11-06-6to10.json` 与 `latestOrderBatch2`。两批都不是30部已完成，也不是全市场收集完成。`tools/import-latest-order-batch.mjs` 只追加前5部，`tools/import-latest-order-batch-2.mjs` 只追加第6至第10部；都不要重跑首轮导入，也不要改前一批、海贼王或学园默示录的已有商品。下一部仍是乱马1/2 第三季。
 - `tools`中的历史采集/导入脚本可能依赖未包含的缓存或固定日期。不要把旧缓存当作新来源，不直接运行一次性脚本覆盖已更新的数据。
 - 定时采集仍在原本地环境运行，未自动迁移到本仓库或Cloudflare。修改采集和发布流程时，应先明确数据如何合并到当前维护源。
 - 图片多数仍为来源外链。不要将来源报价写成实时库存，不丢失缺失信息或核查限制。
