@@ -4943,12 +4943,13 @@
     "title": "【グッズ情報】Chugai Grace Caféグッズ通販（学園アイドルマスター）",
     "url": "https://zutapoke.com/17245/",
     "sections": [
-      "2026-11-06新增DMM甜点主题闪粉徽章再版BOX商品页：1BOX13个、全13种，5,901円含税（参考7,150円）；DMM列2027年2月末前发售予定。旧版角色单枚价格与月份保留；不能指定角色，不保证整箱集齐。"
+      "2026-11-06新增DMM甜点主题闪粉徽章再版BOX商品页：1BOX13个、全13种，5,901円含税（参考7,150円）；DMM列2027年2月末前发售予定。旧版角色单枚价格与月份保留；不能指定角色，不保证整箱集齐。",
+      "2026-11-09补入AnimeStore、Animate新渠道及3类首次通販系列；随机徽章与签名卡入口按系列关联，不能指定角色。多数AnimeStore页限流，规格不扩展到未核角色。"
     ],
     "prices": [],
     "dates": [],
     "image": "https://zutapoke.com/wp-content/uploads/2026/03/c57df80d5e86f95bb3a6e88e0f24f18d.png",
-    "checkedAt": "2026-11-06"
+    "checkedAt": "2026-11-09"
   },
   {
     "title": "【グッズ情報】ばくだん焼き本舗コラボグッズ通販（学園アイドルマスター）",
@@ -8308,6 +8309,42 @@
       "3,600円",
       "2,200円"
     ],
+    "dates": []
+  },
+  {
+    "title": "【学マスグッズ情報】Museum Card [Exhibition 学園アイドルマスター]（学園アイドルマスター）",
+    "url": "https://zutapoke.com/29247/",
+    "checkedAt": "2026-11-09",
+    "sections": [
+      "Museum Card：全26种随机卡，1包2张660円、BOX13包8,580円，2027年6月予定；正文是预约信息，不是已发货。"
+    ],
+    "prices": [],
+    "dates": []
+  },
+  {
+    "title": "Duet Song Collection第２弾予約！",
+    "url": "https://zutapoke.com/29288/",
+    "checkedAt": "2026-11-09",
+    "sections": [
+      "Duet Song Collection第2弹3张：クロスファイア、慟哭のコンチェルト、FANTASTIC GATHERING!。Gamers核对每张2,500円、2027年3月17日发售。",
+      "渠道特典区分：Amazon大封面、Gamersマルチクロス、Animate A3透明海报、ASOBI手机尺寸贴纸。除Gamers外条件未独立核实。"
+    ],
+    "prices": [],
+    "dates": []
+  },
+  {
+    "title": "【週刊】学園アイドルマスター通信 49号（2026/11/8）",
+    "url": "https://zutapoke.com/29204/",
+    "checkedAt": "2026-11-09",
+    "sections": [
+      "第49号：新增Museum Card预约；Chugai Grace Café收藏立牌1,980円、糖果钥匙扣1,540円、透明团扇1,210円等通販情报。",
+      "3rd Single完走纪念周边11月15日结束；Starlight Dining服装毛绒来源称附斗篷，店内条件未独立确认。",
+      "Suntory毛巾套装11月2日至22日、各4,480円另运费；Kitamura贺年卡11月4日10:00至12月20日23:59，预计2027年1月1日至上旬送达（均为周报情报）。",
+      "Part7一番赏12月12日，A葛城リーリヤ、B紫雲清夏、C姫崎莉波1/7手办，Last One清夏特别版；未独立核实厂商完整奖项或抽奖价格。",
+      "ROUND1第2弹12月1日至2027年1月31日；Gearbeat Concerto蒸汽朋克快闪12月24日至2027年1月11日；地点、商品清单、价格待官方资料。",
+      "年末感谢祭12月24日19:00；Lalaport联动、WS卡牌第2弹宣布，完整日期或商品规格待公布，不虚构商品条目。"
+    ],
+    "prices": [],
     "dates": []
   }
 ]
