@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-11-09",
+  "checkedAt": "2026-11-10",
   "databaseRows": 5271,
   "databaseProducts": 5183,
   "mergedDuplicateRows": 88,
   "archivePages": 16,
-  "articlesRead": 294,
+  "articlesRead": 295,
   "plushSupplement": 69,
   "products": 5569,
   "categories": {
@@ -39,13 +39,13 @@
   "failures": [],
   "imagePolicy": "新增数据库图片引用来源公开图片地址，旧19条仍为本地图片。",
   "latestUpdate": {
-    "checkedAt": "2026-11-09",
-    "newProducts": 7,
-    "changedProducts": 81,
-    "newChannelLinks": 238,
-    "newArticles": 3,
-    "changedArticles": 1,
-    "newEvents": 5,
-    "changedEvents": 1
+    "checkedAt": "2026-11-10",
+    "newProducts": 0,
+    "changedProducts": 82,
+    "newChannelLinks": 106,
+    "uniqueNewChannelUrls": 69,
+    "newArticles": 1,
+    "changedArticles": 2,
+    "newEvents": 0
   }
 }
