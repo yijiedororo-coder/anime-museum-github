@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-11-11T10:52:16+09:00",
+  "newProducts": 2,
+  "newProductIds": [
+    "zuta-gift-ichinana-202611",
+    "zuta-gearbeat-plush-2026"
+  ],
+  "changedProducts": 0,
+  "newArticles": 0,
+  "changedArticles": [
+    "https://zutapoke.com/14433/"
+  ],
+  "newEvents": [
+    "gk-gearbeat-order-202611",
+    "gk-gearbeat-shanghai-202611"
+  ],
+  "changedEvents": [
+    "gk-week49-gearbeat-popup"
+  ],
+  "sourceErrors": [],
+  "officialVerified": [
+    "https://www.gift-gift.jp/nui/nui1311.html",
+    "https://shop.asobistore.jp/products/detail/252305-7_gk-c001-00-00",
+    "https://idolmaster-official.jp/news/01_20322"
+  ],
+  "correction": "Gearbeat官方正式发售2027-03-26，2026-12-24是快闪先行；上海01-03结束，日本01-11结束。",
+  "limitations": [
+    "Gift仅咲季官方单品已独立核实，其他6款按来源区分规格；不是全角色官方单品均已核对。",
+    "Gearbeat咲季独立单品及整体公告已核对，其他角色特典细则需逐页确认。"
+  ],
+  "ignoredChanges": "其余为乐天促销文字、游戏活动摘要和手办渠道面板顺序调整，未产生新商品事实。"
+}
