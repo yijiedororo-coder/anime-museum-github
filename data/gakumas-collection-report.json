@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-13",
+  "checkedAt": "2026-11-16",
   "databaseRows": 5271,
   "databaseProducts": 5183,
   "mergedDuplicateRows": 88,
   "archivePages": 16,
-  "articlesRead": 295,
+  "articlesRead": 301,
   "plushSupplement": 69,
-  "products": 5572,
+  "products": 5583,
   "categories": {
     "立牌": 1119,
     "徽章": 952,
@@ -32,19 +32,22 @@
     "纸品": 1,
     "本册": 1,
     "毛绒 / 娃娃": 3,
-    "亚克力立牌": 1,
-    "其他周边": 1,
-    "音乐 / 影像": 3
+    "亚克力立牌": 2,
+    "其他周边": 2,
+    "音乐 / 影像": 6,
+    "海报 / 挂画": 4,
+    "服饰 / 生活周边": 1,
+    "手办 / 模型": 1
   },
   "failures": [],
   "imagePolicy": "新增数据库图片引用来源公开图片地址，旧19条仍为本地图片。",
   "latestUpdate": {
-    "checkedAt": "2026-11-13",
-    "newProducts": 1,
+    "checkedAt": "2026-11-16",
+    "newProducts": 11,
     "changedProducts": 3,
-    "newChannelLinks": 27,
-    "newArticles": 0,
-    "changedArticles": 3,
-    "newEvents": 0
+    "newArticles": 6,
+    "changedArticles": 1,
+    "newEvents": 2,
+    "newChannelLinks": 26
   }
 }

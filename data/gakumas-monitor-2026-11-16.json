@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-11-16T09:04:44+09:00",
+  "newProducts": 11,
+  "newProductIds": [
+    "zuta-kanae-stand-202611",
+    "zuta-kaigou-cd-normal-202611",
+    "zuta-kaigou-cd-special-202611",
+    "zuta-kanae-cd-normal-202611",
+    "zuta-sponsor-10960498",
+    "zuta-sponsor-10960497",
+    "zuta-sponsor-10960500",
+    "zuta-sponsor-10960499",
+    "zuta-sponsor-10960496",
+    "zuta-lawson-other-lineup-202611",
+    "zuta-mugyumi-vol2-preview-202611"
+  ],
+  "changedProducts": 3,
+  "changedProductIds": [
+    "zuta-duet2-10957638",
+    "zuta-duet2-10957639",
+    "zuta-duet2-10957640"
+  ],
+  "newArticles": [
+    "https://zutapoke.com/29481/",
+    "https://zutapoke.com/29472/",
+    "https://zutapoke.com/29471/",
+    "https://zutapoke.com/29382/",
+    "https://zutapoke.com/29317/",
+    "https://zutapoke.com/29434/"
+  ],
+  "changedArticles": [
+    "https://zutapoke.com/29288/"
+  ],
+  "newEvents": [
+    "gk-week50-third-period",
+    "gk-week50-print"
+  ],
+  "newChannelLinks": 26,
+  "sourceErrors": [],
+  "verifiedPages": [
+    "https://www.gamers.co.jp/pn/pd/10959357/",
+    "https://www.gamers.co.jp/pn/pd/10959660/",
+    "https://shop.asobistore.jp/products/detail/251528-00-00-d_lmd_0",
+    "https://shop.asobistore.jp/products/detail/251526-00-00-00",
+    "https://www.gamers.co.jp/pn/pd/10960498/",
+    "https://www.gamers.co.jp/pn/pd/10960497/",
+    "https://www.gamers.co.jp/pn/pd/10960500/",
+    "https://www.gamers.co.jp/pn/pd/10960499/",
+    "https://www.gamers.co.jp/pn/pd/10960496/"
+  ],
+  "limitations": [
+    "预测文章不转成真实商品；週报演出/打印及第2弹手办为待官方核实线索。",
+    "乖轟通常盘Gamers1,999円与ASOBI关联2,000円分别保留，不统一改价。",
+    "协赞服饰AmiAmi尺寸链接未逐项核款，不冒充已对应商品。"
+  ],
+  "ignoredChanges": "其他旧文章仅嵌入游戏活动下次日期更新，不是新增商品。"
+}
