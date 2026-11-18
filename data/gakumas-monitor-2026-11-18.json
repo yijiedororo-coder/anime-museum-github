@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-11-18T09:06:38+09:00",
+  "newProducts": 11,
+  "newProductIds": [
+    "zuta-gearbeat-category-1-202611",
+    "zuta-gearbeat-category-2-202611",
+    "zuta-gearbeat-category-3-202611",
+    "zuta-gearbeat-category-4-202611",
+    "zuta-gearbeat-category-5-202611",
+    "zuta-gearbeat-category-6-202611",
+    "zuta-gearbeat-category-7-202611",
+    "zuta-gearbeat-category-8-202611",
+    "zuta-gearbeat-category-9-202611",
+    "zuta-gearbeat-category-10-202611",
+    "zuta-gearbeat-category-11-202611"
+  ],
+  "changedProducts": 6,
+  "changedProductIds": [
+    "zuta-gearbeat-plush-2026",
+    "zuta-sponsor-shirt-1106470",
+    "zuta-sponsor-shirt-1106474",
+    "zuta-sponsor-shirt-1106478",
+    "zuta-sponsor-shirt-1106482",
+    "zuta-sponsor-shirt-1106486"
+  ],
+  "newArticles": [
+    "https://zutapoke.com/29552/"
+  ],
+  "changedArticles": [
+    "https://zutapoke.com/29382/"
+  ],
+  "newEvents": 0,
+  "newChannelLinks": 84,
+  "sourceErrors": [],
+  "limitations": [
+    "Animate抽查无单品详情，商品按来源图片匹配；BOX数量总额、单品交付与特典均待核。",
+    "Colleize按同图同尺寸匹配，店内独立规格/JAN待核。"
+  ],
+  "ignoredChanges": "28955仅关联文章制作团队称谓变更，无商品或活动事实变化。"
+}
