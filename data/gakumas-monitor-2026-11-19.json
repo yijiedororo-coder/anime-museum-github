@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-19T09:04:40+09:00",
+  "newProducts": 0,
+  "changedProducts": 6,
+  "changedProductIds": [
+    "zuta-gearbeat-category-1-202611",
+    "zuta-gearbeat-category-10-202611",
+    "zuta-gearbeat-category-11-202611",
+    "zuta-gearbeat-category-5-202611",
+    "zuta-gearbeat-category-6-202611",
+    "zuta-gearbeat-plush-2026"
+  ],
+  "newChannelLinks": 30,
+  "verifiedUrls": [
+    "https://www.gamers.co.jp/pn/pd/10961985/",
+    "https://www.gamers.co.jp/pn/pd/10961986/",
+    "https://www.gamers.co.jp/pn/pd/10961987/",
+    "https://www.gamers.co.jp/pn/pd/10961988/",
+    "https://www.gamers.co.jp/pn/pd/10961989/",
+    "https://www.gamers.co.jp/pn/pd/10961990/",
+    "https://www.gamers.co.jp/pn/pd/10961991/",
+    "https://www.gamers.co.jp/pn/pd/10961992/",
+    "https://www.gamers.co.jp/pn/pd/10961993/",
+    "https://www.gamers.co.jp/pn/pd/10961994/",
+    "https://www.gamers.co.jp/pn/pd/10961995/",
+    "https://www.gamers.co.jp/pn/pd/10961996/",
+    "https://www.gamers.co.jp/pn/pd/10961997/",
+    "https://www.gamers.co.jp/pn/pd/10962000/",
+    "https://www.gamers.co.jp/pn/pd/10962001/",
+    "https://www.gamers.co.jp/pn/pd/10962002/",
+    "https://www.gamers.co.jp/pn/pd/10962003/",
+    "https://www.gamers.co.jp/pn/pd/10962004/",
+    "https://www.gamers.co.jp/pn/pd/10962005/",
+    "https://www.gamers.co.jp/pn/pd/10962006/",
+    "https://www.gamers.co.jp/pn/pd/10962007/",
+    "https://www.gamers.co.jp/pn/pd/10962008/",
+    "https://www.gamers.co.jp/pn/pd/10962009/",
+    "https://www.gamers.co.jp/pn/pd/10962010/",
+    "https://www.gamers.co.jp/pn/pd/10962011/",
+    "https://www.gamers.co.jp/pn/pd/10962012/",
+    "https://www.gamers.co.jp/pn/pd/10961999/",
+    "https://www.gamers.co.jp/pn/pd/10961998/",
+    "https://www.gamers.co.jp/pn/pd/10961983/",
+    "https://www.gamers.co.jp/pn/pd/10961984/"
+  ],
+  "newArticles": 0,
+  "changedArticles": [
+    "https://zutapoke.com/29552/"
+  ],
+  "newEvents": 0,
+  "sourceErrors": [],
+  "retry": "10207首次断开，单次重试成功，完整正文与上次相同。",
+  "limitations": [
+    "Gamers随机卡片600円和Animate来源599円分别保留，不统一改价。",
+    "店铺提供BOX13/26个与不齐套规则，展示单价不当作BOX总价。"
+  ],
+  "ignoredChanges": "28955仅关联口号本团队称谓修正，无商品事实变化。"
+}
