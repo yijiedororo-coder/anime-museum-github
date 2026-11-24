@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-11-24T09:07:31+09:00",
+  "newProducts": 10,
+  "newProductIds": [
+    "zuta-supergroupies-8987",
+    "zuta-supergroupies-8990",
+    "zuta-supergroupies-8993",
+    "zuta-supergroupies-8988",
+    "zuta-supergroupies-8991",
+    "zuta-supergroupies-8994",
+    "zuta-supergroupies-8989",
+    "zuta-supergroupies-8992",
+    "zuta-supergroupies-8995",
+    "zuta-mugyumi-vol3-preview-202611"
+  ],
+  "changedProducts": 1,
+  "changedProductIds": [
+    "zuta-figure-13353-097ddbf59f68"
+  ],
+  "newArticles": [
+    "https://zutapoke.com/29681/"
+  ],
+  "changedArticles": [
+    "https://zutapoke.com/25853/",
+    "https://zutapoke.com/24647/"
+  ],
+  "newEvents": [
+    "gk-twinkle-rabbit-202611"
+  ],
+  "verifiedUrls": [
+    "https://www.super-groupies.com/product/8987",
+    "https://www.super-groupies.com/product/8990",
+    "https://www.super-groupies.com/product/8993",
+    "https://www.super-groupies.com/product/8988",
+    "https://www.super-groupies.com/product/8991",
+    "https://www.super-groupies.com/product/8994",
+    "https://www.super-groupies.com/product/8989",
+    "https://www.super-groupies.com/product/8992",
+    "https://www.super-groupies.com/product/8995",
+    "https://www.dmm.com/mono/hobby/-/detail/=/cid=c260503125/"
+  ],
+  "sourceErrors": [],
+  "limitations": [
+    "SuperGroupies部分页异常2126年截止模块不采纳，不表示当前有库存。",
+    "30MS厂商候选页404，周报11/21与DMM月底日期分开保留。",
+    "第3弹手办与Twinkle Rabbit为周报线索，官方详目待核。"
+  ],
+  "ignoredChanges": "其他旧文章只补全已结束游戏抽卡期间或改活动标题，未重复创建活动。"
+}
