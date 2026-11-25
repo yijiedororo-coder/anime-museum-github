@@ -1,0 +1,45 @@
+{
+  "checkedAt": "2026-11-25T09:05:15+09:00",
+  "newProducts": 0,
+  "changedProducts": 5,
+  "changedProductIds": [
+    "zuta-sponsor-shirt-1106470",
+    "zuta-sponsor-shirt-1106474",
+    "zuta-sponsor-shirt-1106478",
+    "zuta-sponsor-shirt-1106482",
+    "zuta-sponsor-shirt-1106486"
+  ],
+  "newChannelLinks": 20,
+  "addedUrls": [
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657278",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657279",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657280",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657281",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657282",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657283",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657284",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657285",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657286",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657287",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657288",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657289",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657290",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657291",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657292",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657293",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657294",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657295",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657296",
+    "https://www.animate-onlineshop.jp/products/detail.php?product_id=3657297"
+  ],
+  "newArticles": 0,
+  "changedArticles": [
+    "https://zutapoke.com/29382/"
+  ],
+  "newEvents": 0,
+  "sourceErrors": [],
+  "limitations": [
+    "Animate单品未逐页独立核实；角色/尺码依据来源同图同按钮，不能作为库存或交付保证。"
+  ],
+  "ignoredChanges": "其余为促销横幅、推荐卡片摘要恢复、已核PalVerse日期措辞及排版，不创建新商品或活动。"
+}

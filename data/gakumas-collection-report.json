@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24",
+  "checkedAt": "2026-11-25",
   "databaseRows": 5271,
   "databaseProducts": 5183,
   "mergedDuplicateRows": 88,
@@ -42,11 +42,12 @@
   "failures": [],
   "imagePolicy": "新增数据库图片引用来源公开图片地址，旧19条仍为本地图片。",
   "latestUpdate": {
-    "checkedAt": "2026-11-24",
-    "newProducts": 10,
-    "changedProducts": 1,
-    "newArticles": 1,
-    "changedArticles": 2,
-    "newEvents": 1
+    "checkedAt": "2026-11-25",
+    "newProducts": 0,
+    "changedProducts": 5,
+    "newArticles": 0,
+    "changedArticles": 1,
+    "newEvents": 0,
+    "newChannelLinks": 20
   }
 }
