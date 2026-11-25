@@ -10138,5 +10138,32 @@
       }
     ],
     "note": "本批只处理最新顺序第6至第10部。前5部、海贼王和学园默示录没有改写。下一部仍是乱马1/2 第三季。"
+  },
+  "latestOrderContinuation": {
+    "checkedAt": "2026-11-25",
+    "order": "作品清单「最新」",
+    "works": [
+      {
+        "position": 12,
+        "id": "ole-6779f7b74e49",
+        "name": "借出去的魔力要用【分期还款】强制收回",
+        "products": 31,
+        "scope": "已核寿屋两款手办、寿屋在线抽赏全26款及片头曲实体单曲三版。",
+        "officialSite": "https://revo-anime.com/"
+      },
+      {
+        "position": 13,
+        "id": "ole-f161014e037b",
+        "name": "顶点武装",
+        "products": 27,
+        "scope": "核对全4卷影碟、9家店铺的影碟购买特典、片头与片尾曲实体版本及已上线的两辑配乐。",
+        "officialSite": "https://vertexforce.jp/"
+      }
+    ],
+    "next": {
+      "position": 14,
+      "id": "ole-8427ebb6b651",
+      "name": "魔法★探险家"
+    }
   }
 }
