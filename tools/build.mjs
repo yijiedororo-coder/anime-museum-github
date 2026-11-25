@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile, copyFile, rm } from 'node:fs/promises';
+import { mkdir, readFile, writeFile, copyFile, cp, rm } from 'node:fs/promises';
 import { dirname, resolve, relative, isAbsolute } from 'node:path';
 import { root, loadMuseum, orderedWorks, sectionFiles } from './load-museum.mjs';
 import { buildChronology } from './build-chronology.mjs';
@@ -11,6 +11,7 @@ await mkdir(resolve(output, 'reports'), { recursive: true });
 const { context, registry } = loadMuseum();
 const items = orderedWorks(context, registry);
 await buildChronology(root, output, items);
+await cp(resolve(root,'data/roles'), resolve(output,'data/roles'), {recursive:true});
 const posters = new Set();
 for (const item of items) {
   for (const record of [item, ...(item.alternateRecords || [])]) if (record.localPoster) posters.add(record.localPoster);

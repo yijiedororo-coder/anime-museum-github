@@ -35,8 +35,23 @@ for(const id of slots){
  else assert(all.some(work=>work.id===id),id+' 已填写时应出现在页面');
 }
 function local(file){assert(!isAbsolute(file));const full=resolve(root,file),rel=relative(root,full);assert(rel&&!rel.startsWith('..')&&!isAbsolute(rel),'本地资源路径必须位于项目内');assert(existsSync(full),'缺少资源 '+file);}
+// Character shards are fetched independently of the main catalogue.
+const roleShards = new Map();
+function verifyRoles(work) {
+  if (!work.roleCount) return;
+  const key = work.id.slice(-1);
+  assert(/^[0-9a-f]$/.test(key));
+  if (!roleShards.has(key)) {
+    roleShards.set(key, JSON.parse(readFileSync(resolve(root,'data/roles',key+'.json'),'utf8')));
+  }
+  const rows = roleShards.get(key)[work.id];
+  assert.equal(rows?.length, work.roleCount, '角色文件缺失或数量不符 '+work.id);
+  assert(work.broadcastRecord?.subject, '缺少演出表来源 '+work.id);
+  for (const [name, , actors, id] of rows) assert(name && Array.isArray(actors) && Number.isInteger(id));
+}
 let products=0,events=0;
 for(const work of all){
+ verifyRoles(work);
  for(const record of [work,...work.alternateRecords||[]])local(record.localPoster);
  if(work.merch){
   products+=work.merch.length;assert.equal(new Set(work.merch.map(goods=>goods.id)).size,work.merch.length);
