@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-26T09:03:07+09:00",
+  "newProducts": 3,
+  "newProductIds": [
+    "zuta-sponsor-neogds-1110678",
+    "zuta-sponsor-neogds-1110679",
+    "zuta-sponsor-neogds-1110680"
+  ],
+  "changedProducts": 1,
+  "changedProductIds": [
+    "zuta-plush-2ac7b92ea577"
+  ],
+  "newChannelLinks": 5,
+  "newArticles": 0,
+  "changedArticles": [
+    "https://zutapoke.com/29382/",
+    "https://zutapoke.com/12413/",
+    "https://zutapoke.com/14433/"
+  ],
+  "newEvents": 0,
+  "sourceErrors": [],
+  "verifiedProductPages": [
+    "https://www.neowing.co.jp/product/NEOGDS-1110678",
+    "https://www.neowing.co.jp/product/NEOGDS-1110679",
+    "https://www.neowing.co.jp/product/NEOGDS-1110680",
+    "https://www.neowing.co.jp/product/NEOGDS-1110681",
+    "https://www.neowing.co.jp/product/NEOGDS-1110682",
+    "https://bsp-prize.jp/item/2875251/"
+  ],
+  "ignoredChanges": "11 篇旧文移除了促销横幅。"
+}
